@@ -1,0 +1,1212 @@
+[
+  {
+    "LogoName": "adidas",
+    "LogoUrl": "/img/logolist/adidas.svg",
+    "MainCategory": [
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "erkek-ayakkabi-yeni_urunler"
+          },
+          {
+            "title": "originals",
+            "url": "erkek-ayakkabi-originals"
+          },
+          {
+            "title": "football",
+            "url": "erkek-krampon"
+          },
+          {
+            "title": "running",
+            "url": "erkek-kosu-ayakkabi"
+          },
+          {
+            "title": "training",
+            "url": "erkek-training-ayakkabi"
+          },
+          {
+            "title": "sport inspired",
+            "url": "erkek-sport_inspired-ayakkabi"
+          },
+          {
+            "title": "outdoor",
+            "url": "erkek-outdoor-ayakkabi"
+          },
+          {
+            "title": "basketball",
+            "url": "erkek-basketbol-ayakkabi"
+          },
+          {
+            "title": "slipper",
+            "url": "erkek-terlik"
+          },
+          {
+            "title": "tennis",
+            "url": "erkek-tenis-ayakkabi"
+          },
+          {
+            "title": "1199₺ and under shoes",
+            "url": "erkek-ayakkabi?price_max=1199&price_min=1"
+          }
+        ]
+      },
+      {
+        "categoryName": "clothing",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "erkek-giyim-yeni_urunler"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "erkek-giyim-sweatshirt"
+          },
+          {
+            "title": "t-shirt",
+            "url": "erkek-tisort-giyim"
+          },
+          {
+            "title": "jerseys",
+            "url": "erkek-forma-giyim"
+          },
+          {
+            "title": "hoodies & zipper top",
+            "url": "erkek-giyim-kapusonlu_ve_sweatshirt"
+          },
+          {
+            "title": "coats",
+            "url": "erkek-ceket_mont-giyim"
+          },
+          {
+            "title": "sweatpants",
+            "url": "erkek-esofman_alti"
+          },
+          {
+            "title": "leggings",
+            "url": "erkek-tayt"
+          },
+          {
+            "title": "shorts",
+            "url": "erkek-sort-giyim"
+          },
+          {
+            "title": "underwear",
+            "url": "erkek-ic_camasir"
+          },
+          {
+            "title": "swimsuit",
+            "url": "erkek-mayo"
+          },
+          {
+            "title": "849₺ and under clothing",
+            "url": "erkek-mayo"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessories",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "erkek-aksesuar-yeni_urunler"
+          },
+          {
+            "title": "masks",
+            "url": "erkek-yuz_aksesuari"
+          },
+          {
+            "title": "bag",
+            "url": "erkek-canta"
+          },
+          {
+            "title": "backpacks",
+            "url": "erkek-sirt_cantasi"
+          },
+          {
+            "title": "training bags",
+            "url": "erkek-training-canta"
+          },
+          {
+            "title": "sock",
+            "url": "erkek-corap"
+          },
+          {
+            "title": "hat, cap and headband",
+            "url": "erkek-sapka"
+          },
+          {
+            "title": "gloves, scarf and collar",
+            "url": "erkek-eldiven-aksesuar"
+          },
+          {
+            "title": "ball",
+            "url": "erkek-top"
+          },
+          {
+            "title": "shin guards",
+            "url": "erkek-tekmelik-aksesuar"
+          }
+        ]
+      },
+      {
+        "categoryName": "sports categories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": [
+          {
+            "title": "football",
+            "url": "erkek-futbol"
+          },
+          {
+            "title": "running",
+            "url": "erkek-kosu"
+          },
+          {
+            "title": "training",
+            "url": "erkek-training"
+          },
+          {
+            "title": "basketball",
+            "url": "erkek-basketbol"
+          },
+          {
+            "title": "outdoor",
+            "url": "erkek-outdoor"
+          },
+          {
+            "title": "swimming",
+            "url": "erkek-yuzme"
+          },
+          {
+            "title": "tennis",
+            "url": "erkek-tenis"
+          }
+        ]
+      },
+      {
+        "categoryName": "sustainable",
+        "categoryUrl": "",
+        "branchname": [
+          {
+            "title": "sustainable",
+            "url": "erkek-surdurulebilir"
+          },
+          {
+            "title": "vegan",
+            "url": "erkek-vegan"
+          }
+        ]
+      },
+      {
+        "categoryName": "COLLECTIONS",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": [
+          {
+            "title": "gazelle",
+            "url": "erkek-gazelle"
+          },
+          {
+            "title": "superstar",
+            "url": "erkek-superstar"
+          },
+          {
+            "title": "stan smith",
+            "url": "erkek-stan_smith"
+          },
+          {
+            "title": "adicolor",
+            "url": "erkek-originals-adicolor"
+          },
+          {
+            "title": "ultraboost",
+            "url": "erkek-ultraboost"
+          },
+          {
+            "title": "ozweego",
+            "url": "erkek-ozweego"
+          },
+          {
+            "title": "predator",
+            "url": "erkek-predator"
+          },
+          {
+            "title": "nmd",
+            "url": "erkek-nmd"
+          },
+          {
+            "title": "y-3",
+            "url": "erkek-y3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "defacto",
+    "LogoUrl": "/img/logolist/defacto.svg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all products",
+            "url": "erkek-giyim"
+          },
+          {
+            "title": "t-shirt",
+            "url": "erkek-t-shirt"
+          },
+          {
+            "title": "trousers",
+            "url": "erkek-pantolon"
+          },
+          {
+            "title": "shirt",
+            "url": "erkek-gomlek"
+          },
+          {
+            "title": "polo t-shirt",
+            "url": "erkek-polo-t-shirt"
+          },
+          {
+            "title": "jeans",
+            "url": "erkek-denim-pantolon"
+          },
+          {
+            "title": "sweatpants",
+            "url": "erkek-esofman-alti"
+          },
+          {
+            "title": "chinao pants",
+            "url": "erkek-chino-pantolon"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "erkek-sweatshirt"
+          },
+          {
+            "title": "sweater",
+            "url": "erkek-suveter"
+          },
+          {
+            "title": "athlete",
+            "url": "erkek-atlet"
+          },
+          {
+            "title": "short-sleeved shirt",
+            "url": "erkek-kisa-kollu-gomlek"
+          },
+          {
+            "title": "beach wear",
+            "url": "erkek-plaj-giyim"
+          },
+          { "title": "shorts", "url": "erkek-sort" },
+          { "title": "cardigan", "url": "erkek-hirka-suveter" },
+          { "title": "bermuda shorts", "url": "erkek-bermuda" },
+          { "title": "jumper", "url": "erkek-kazak" },
+          { "title": "all products", "url": "erkek-dis-giyim" },
+          { "title": "jacket", "url": "erkek-ceket" },
+          { "title": "college collar jacket", "url": "kolej-yaka-ceket" },
+          { "title": "seasonal coats", "url": "erkek-yagmurluk" },
+          { "title": "raincoat", "url": "erkek-deri-ceket" },
+          { "title": "leather jacket", "url": "erkek-blazer-ceket" },
+          { "title": "blazer jacket", "url": "erkek-hirka-suveter" },
+          { "title": "cardigan", "url": "erkek-jean-ceket" },
+          { "title": "jean jacket", "url": "erkek-yelek" },
+          { "title": "waistcoat", "url": "erkek-mont" },
+          { "title": "coats", "url": "erkek-kaban-parka" },
+          { "title": "all products", "url": "erkek-spor-giyim" },
+          {
+            "title": "t-shirt",
+            "url": "erkek-spor-giyim?filtre=kategori:t-shirt"
+          },
+          { "title": "shorts", "url": "erkek-spor-giyim?filtre=kategori:sort" },
+          { "title": "coats", "url": "erkek-spor-giyim?filtre=kategori:mont" },
+          {
+            "title": "sweatshirt",
+            "url": "erkek-spor-giyim?filtre=kategori:sweatshirt"
+          },
+          {
+            "title": "athlete",
+            "url": "erkek-spor-giyim?filtre=kategori:atlet"
+          },
+          { "title": "sweatpants", "url": "" },
+          {
+            "title": "defacto studio-stylish colthing",
+            "url": "erkek-spor-giyim?filtre=kategori:esofman-alti"
+          },
+          { "title": "all products", "url": "erkek-ev-giyim" },
+          { "title": "pajamas set", "url": "erkek-set" },
+          { "title": "pajama bottom", "url": "erkek-ev-giyim-alt" },
+          { "title": "pajama top", "url": "erkek-ev-giyim-ust" },
+          { "title": "home slippers", "url": "erkek-ev-terligi" },
+          { "title": "home dressing", "url": "erkek-ev-giyim" },
+          { "title": "athlete-undershirt", "url": "erkek-ev-giyim-ust" },
+          { "title": "boxer", "url": "erkek-boxer" },
+          { "title": "outlet", "url": "surdurulebilirlik" }
+        ]
+      },
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "show all of them",
+            "url": "erkek-ayakkabi"
+          },
+          {
+            "title": "sneakers",
+            "url": "erkek-spor-ayakkabi"
+          },
+          {
+            "title": "licensed shoes",
+            "url": "arama?fx_sb1=280&fx_sb2=5349&fx_c1=1"
+          },
+          {
+            "title": "casual shoes",
+            "url": "erkek-gunluk-ayakkabi"
+          },
+          {
+            "title": "sandals",
+            "url": "erkek-sandalet"
+          },
+          {
+            "title": "slipper",
+            "url": "erkek-terlik"
+          },
+          {
+            "title": "home slippers",
+            "url": "erkek-ev-terligi"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "show all of them=",
+            "url": "erkek-aksesuar"
+          },
+          {
+            "title": "socks buy 2 pay 1",
+            "url": "erkek-corap"
+          },
+          {
+            "title": "bag",
+            "url": "erkek-canta"
+          },
+          {
+            "title": "perfume basket 50% discount",
+            "url": "erkek-parfum"
+          },
+          {
+            "title": "towel",
+            "url": "erkek-havlu"
+          },
+          {
+            "title": "belt",
+            "url": "erkek-kemer"
+          },
+          {
+            "title": "purse",
+            "url": "erkek-cuzdan"
+          },
+          {
+            "title": "hat",
+            "url": "erkek-sapka"
+          },
+          {
+            "title": "canteen",
+            "url": "zeytin-derisi-koleksiyonu"
+          },
+          {
+            "title": "suitcase",
+            "url": "arama?fx_sb1=280&fx_sb2=2857"
+          },
+          {
+            "title": "sock",
+            "url": "valiz-modelleri"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "bershka",
+    "LogoUrl": "/img/logolist/bershka.svg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "t-shirt",
+            "url": "erkek/gi%CC%87yi%CC%87m/ti%C5%9F%C3%B6rt-c1010193239"
+          },
+          {
+            "title": "shirt",
+            "url": "erkek/gi%CC%87yi%CC%87m/g%C3%B6mlek-c1010193240"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "erkek/gi%CC%87yi%CC%87m/sweatshirt-c1010193244"
+          },
+          {
+            "title": "knitwear",
+            "url": "erkek/gi%CC%87yi%CC%87m/triko-c1010630253"
+          },
+          {
+            "title": "suit",
+            "url": "erkek/gi%CC%87yi%CC%87m/tak%C4%B1m-elbise-c1010557058"
+          },
+          {
+            "title": "jacket-coat",
+            "url": "erkek/gi%CC%87yi%CC%87m/ceket---kaban-c1010193546"
+          },
+          {
+            "title": "jean",
+            "url": "erkek/gi%CC%87yi%CC%87m/jean-c1010193238"
+          },
+          {
+            "title": "trousers",
+            "url": "erkek/gi%CC%87yi%CC%87m/pantolon-c1010193241"
+          },
+          {
+            "title": "cargo and parachute",
+            "url": "erkek/gi%CC%87yi%CC%87m/kargo-ve-para%C5%9F%C3%BCt-c1010580673"
+          },
+          {
+            "title": "tract suit",
+            "url": "erkek/gi%CC%87yi%CC%87m/e%C5%9Fofman-tak%C4%B1m%C4%B1-c1010580165"
+          },
+          {
+            "title": "shorts",
+            "url": "erkek/gi%CC%87yi%CC%87m/%C5%9Fort-c1010193242"
+          },
+          {
+            "title": "beach wear",
+            "url": "erkek/gi%CC%87yi%CC%87m/plaj-gi%CC%87yi%CC%87mi%CC%87-c1010193253"
+          },
+          {
+            "title": "collaborations",
+            "url": "erkek/collaborations%C2%AE-c1010321007"
+          }
+        ]
+      },
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "sneakers",
+            "url": "erkek/ayakkab%C4%B1/sneaker-c1010205524"
+          },
+          {
+            "title": "sneakers",
+            "url": "erkek/ayakkab%C4%B1/spor-ayakkab%C4%B1-c1010321502"
+          },
+          {
+            "title": "sandals",
+            "url": "erkek/ayakkab%C4%B1/sandalet-c1010205530"
+          },
+          {
+            "title": "classic shoes",
+            "url": "erkek/ayakkab%C4%B1/klasik-ayakkab%C4%B1-c1010205527"
+          },
+          {
+            "title": "boots",
+            "url": "erkek/ayakkab%C4%B1/bot-c1010205532"
+          },
+          {
+            "title": "special prices",
+            "url": "erkek/ayakkab%C4%B1/special-prices-c1010389518"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "bag and backpack",
+            "url": "erkek/aksesuar/%C3%A7anta-ve-s%C4%B1rt-%C3%A7antas%C4%B1-c1010206018"
+          },
+          {
+            "title": "hat and beret",
+            "url": "erkek/aksesuar/%C5%9Fapka-ve-bere-c1010206019"
+          },
+          {
+            "title": "belt",
+            "url": "erkek/aksesuar/kemer-c1010206023"
+          },
+          {
+            "title": "bijouterie",
+            "url": "erkek/aksesuar/bijuteri-c1010206031"
+          },
+          {
+            "title": "sock",
+            "url": "erkek/aksesuar/%C3%A7orap-c1010206026"
+          },
+          {
+            "title": "underwear",
+            "url": "erkek/aksesuar/i%CC%87%C3%A7-giyim-c1010206025"
+          },
+          {
+            "title": "glasses",
+            "url": "erkek/aksesuar/g%C3%B6zl%C3%BCkler-c1010206024"
+          },
+          {
+            "title": "perfume",
+            "url": "erkek/aksesuar/parf%C3%BCm-c1010477062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "hm",
+    "LogoUrl": "/img/logolist/hm.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "new products",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "view all",
+            "url": "erkek/yeni-urunler/view-all"
+          },
+          {
+            "title": "clothes",
+            "url": "erkek/yeni-urunler/giysi"
+          },
+          {
+            "title": "shoes & accessories",
+            "url": "erkek/yeni-urunler/ayakkabi-aksesuar"
+          },
+          {
+            "title": "sportswear",
+            "url": "erkek/yeni-urunler/spor-giyim"
+          }
+        ]
+      },
+      {
+        "categoryName": "best prices",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "holiday opportunities",
+            "url": "erkek/deals/bayram-frsatlar"
+          }
+        ]
+      },
+      {
+        "categoryName": "essentials",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "collection",
+            "url": "erkek/the-essentials/3077a-the-essentials"
+          },
+          {
+            "title": "about the collection",
+            "url": "erkek/the-essentials/core-collection"
+          }
+        ]
+      },
+      {
+        "categoryName": "trending products",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "bestsellers",
+            "url": "erkek/sezon-trendleri/cok-satanlar"
+          },
+          {
+            "title": "new|the season of light shades",
+            "url": "erkek/sezon-trendleri/off-white"
+          },
+          {
+            "title": "cargo pants",
+            "url": "erkek/sezon-trendleri/cargo-trousers"
+          },
+          {
+            "title": "custom-cut looks",
+            "url": "erkek/sezon-trendleri/mens-tailored-looks"
+          },
+          {
+            "title": "must-haves|spring",
+            "url": "erkek/sezon-trendleri/ilkbahar"
+          },
+          { "title": "linen clothes", "url": "erkek/sezon-trendleri/keten" }
+        ]
+      },
+      {
+        "categoryName": "buy by product",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "view all",
+            "url": "erkek/urune-gore-satin-al/view-all"
+          },
+          {
+            "title": "basic",
+            "url": "erkek/urune-gore-satin-al/basic"
+          },
+          { "title": "jean", "url": "erkek/urune-gore-satin-al/jean" },
+          { "title": "trousers", "url": "erkek/urune-gore-satin-al/pantolon" },
+          {
+            "title": "sweatshirt and hoodie sweatshirt",
+            "url": "erkek/urune-gore-satin-al/kapusonlu-sweatshirt"
+          },
+          {
+            "title": "t-shirt and tank",
+            "url": "erkek/urune-gore-satin-al/tisort-atlet"
+          },
+          {
+            "title": "knitwear & knitting",
+            "url": "erkek/urune-gore-satin-al/triko-orgu"
+          },
+          {
+            "title": "sweaters & cardigans",
+            "url": "erkek/urune-gore-satin-al/kazak-hirka"
+          },
+          { "title": "shirt", "url": "erkek/urune-gore-satin-al/gomlek" },
+          {
+            "title": "suit & blazer jacket",
+            "url": "erkek/urune-gore-satin-al/takim-elbise-blazer-ceket"
+          },
+          {
+            "title": "jackets and coats",
+            "url": "erkek/urune-gore-satin-al/ceket-kaban"
+          },
+          { "title": "shorts", "url": "erkek/urune-gore-satin-al/sort" },
+          { "title": "beach clothes", "url": "erkek/urune-gore-satin-al/mayo" },
+          {
+            "title": "sportswear",
+            "url": "erkek/urune-gore-satin-al/spor-giyim"
+          },
+          { "title": "underwear", "url": "erkek/urune-gore-satin-al/ic-giyim" },
+          {
+            "title": "pajamas & homewear",
+            "url": "erkek/urune-gore-satin-al/gecelik-ev-kiyafetleri"
+          },
+          { "title": "sock", "url": "erkek/urune-gore-satin-al/corap" },
+          { "title": "shoe", "url": "erkek/urune-gore-satin-al/ayakkabi" },
+          { "title": "accessory", "url": "erkek/urune-gore-satin-al/aksesuar" },
+          {
+            "title": "premium selection",
+            "url": "erkek/urune-gore-satin-al/premium-selection"
+          },
+          {
+            "title": "cosmetics",
+            "url": "erkek/urune-gore-satin-al/bakim-urunleri"
+          }
+        ]
+      },
+      {
+        "categoryName": "sustainability",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "our products",
+            "url": "erkek/surdurulebilirlik/our-products"
+          },
+          {
+            "title": "H&M take care",
+            "url": "erkek/surdurulebilirlik/take-care"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "lcwaikiki",
+    "LogoUrl": "/img/logolist/lc-waikiki.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "t-shirt",
+            "url": "kategori/erkek/tisort"
+          },
+          {
+            "title": "polo neck t-shirt",
+            "url": "etiket/polo-yaka-tisort-erkek"
+          },
+          {
+            "title": "shirt",
+            "url": "kategori/erkek/gomlek"
+          },
+          {
+            "title": "jean",
+            "url": "kategori/erkek/jean"
+          },
+          { "title": "beach wear", "url": "kategori/erkek/plaj-kiyafeti" },
+          { "title": "trousers", "url": "kategori/erkek/pantolon" },
+          { "title": "chino pants", "url": "kategori/erkek/chino-pantolon" },
+          {
+            "title": "active sports",
+            "url": "etiket/erkek-aktif-spor-urunler"
+          },
+          { "title": "24/7 basic", "url": "etiket/erkek-7-24-basic-urunler" },
+          { "title": "swatshirt", "url": "kategori/erkek/Sweatshirt" },
+          { "title": "sweatpants", "url": "kategori/erkek/esofman-alt" },
+          { "title": "shorts", "url": "kategori/erkek/sort-ve-roller" },
+          { "title": "athlete", "url": "etiket/erkek-atlet-urunleri" },
+          { "title": "jumper", "url": "kategori/erkek/kazak" },
+          {
+            "title": "coats and coats",
+            "url": "kategori/erkek/erkek_mont_kaban-14"
+          },
+          { "title": "raincoat", "url": "kategori/erkek/erkek_yagmurluk-21" },
+          {
+            "title": "cardigan and sweater",
+            "url": "kategori/erkek/hirka-ve-suveter"
+          }
+        ]
+      },
+      {
+        "categoryName": "underwear, pajamas, socks",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          { "title": "pyjamas", "url": "kategori/erkek/pijama" },
+          { "title": "underwear", "url": "kategori/erkek/ic-giyim" },
+          { "title": "boxer", "url": "etiket/erkek-boxer" },
+          { "title": "sock", "url": "kategori/erkek/%C3%87orap" },
+          { "title": "multi-packages", "url": "etiket/erkek-coklu-paket" }
+        ]
+      },
+      {
+        "categoryName": "shoe",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          { "title": "sneakers", "url": "kategori/erkek/spor-ayakkabi" },
+          {
+            "title": "trekking shoes",
+            "url": "kategori/erkek/erkek_trekking-298"
+          },
+          {
+            "title": "classic shoes",
+            "url": "kategori/erkek/klasik-ayakkabi-159"
+          },
+          {
+            "title": "house slippers, panduf and house boots",
+            "url": "kategori/erkek/ev-terligi-ve-panduf-196"
+          },
+          {
+            "title": "slippers and sandals",
+            "url": "kategori/erkek/terlik-ve-sandalet"
+          },
+          { "title": "sea shoes", "url": "etiket/erkek-deniz-ayakkabisi" }
+        ]
+      },
+      {
+        "categoryName": "accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "bag",
+            "url": "kategori/erkek/erkek_canta-37"
+          },
+          {
+            "title": "hat",
+            "url": "kategori/erkek/sapka"
+          },
+          {
+            "title": "belt and wallet",
+            "url": "kategori/erkek/erkek_kemer_cuzdan-36"
+          },
+          {
+            "title": "scarf and tie",
+            "url": "kategori/erkek/erkek_fular_kravat-13"
+          },
+          {
+            "title": "perfume and personal care",
+            "url": "etiket/erkek-parfum-kisisel-bakim"
+          },
+          {
+            "title": "beach towel",
+            "url": "kategori/erkek/erkek_plajhavlusu-38"
+          },
+          {
+            "title": "umnrella",
+            "url": "kategori/erkek/erkek_semsiye-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "mango",
+    "LogoUrl": "/img/logolist/mango.svg",
+    "MainCategory": [
+      {
+        "categoryName": "party and special occasions",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "party and special occasions",
+            "url": "https://shop.mango.com/tr/erkek/one-cikanlar/parti-ve-ozel-gunler_d13137626"
+          }
+        ]
+      },
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "shirt",
+            "url": "https://shop.mango.com/tr/erkek/gomlek_c10863844"
+          },
+          {
+            "title": "t-shirt",
+            "url": "https://shop.mango.com/tr/erkek/tisort_c12018147"
+          },
+          {
+            "title": "polo shirt",
+            "url": "https://shop.mango.com/tr/erkek/polo-yaka-tisort_c20667557"
+          },
+          {
+            "title": "trousers",
+            "url": "https://shop.mango.com/tr/erkek/pantolon_c11949748"
+          },
+          {
+            "title": "jean",
+            "url": "https://shop.mango.com/tr/erkek/jean_c23998484"
+          },
+          {
+            "title": "bermuda",
+            "url": "https://shop.mango.com/tr/erkek/jean_c23998484"
+          },
+          {
+            "title": "blazer jacket",
+            "url": "https://shop.mango.com/tr/erkek/blazer-ceket_c14858698"
+          },
+          {
+            "title": "jackets and vests",
+            "url": "https://shop.mango.com/tr/erkek/ceketler-ve-yelekler_c16042202"
+          },
+          {
+            "title": "cardigan and sweater",
+            "url": "https://shop.mango.com/tr/erkek/h%C4%B1rka-ve-kazak_c33749244"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "https://shop.mango.com/tr/erkek/sweatshirt_c71156082"
+          },
+          {
+            "title": "shkin",
+            "url": "https://shop.mango.com/tr/erkek/deri_c13997579"
+          },
+          {
+            "title": "shirt jackets",
+            "url": "https://shop.mango.com/tr/erkek/gomlek-ceketler_c13028484"
+          },
+          {
+            "title": "coat",
+            "url": "https://shop.mango.com/tr/erkek/palto_c32859776"
+          },
+          {
+            "title": "swimsuit",
+            "url": "https://shop.mango.com/tr/erkek/mayo_c30599202"
+          },
+          {
+            "title": "pyjamas",
+            "url": "https://shop.mango.com/tr/erkek/pijama_c62980511"
+          },
+          {
+            "title": "underswear",
+            "url": "https://shop.mango.com/tr/erkek/ic-camas%C4%B1r%C4%B1_c74722875"
+          }
+        ]
+      },
+      {
+        "categoryName": "suit",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          { "title": "suit", "url": "kategori/erkek/pijama" },
+          { "title": "blazer jacket", "url": "kategori/erkek/ic-giyim" },
+          { "title": "trousers", "url": "etiket/erkek-boxer" },
+          { "title": "waistcoat", "url": "kategori/erkek/%C3%87orap" },
+          { "title": "shirt", "url": "etiket/erkek-coklu-paket" }
+        ]
+      },
+      {
+        "categoryName": "accessories",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "shoe",
+            "url": "kategori/erkek/erkek_canta-37"
+          },
+          {
+            "title": "backpacks and other bags",
+            "url": "kategori/erkek/sapka"
+          },
+          {
+            "title": "sunglasses",
+            "url": "kategori/erkek/erkek_kemer_cuzdan-36"
+          },
+          {
+            "title": "belts and suspenders",
+            "url": "kategori/erkek/erkek_fular_kravat-13"
+          },
+          {
+            "title": "ties and bow ties",
+            "url": "etiket/erkek-parfum-kisisel-bakim"
+          },
+          {
+            "title": "hats and caps",
+            "url": "kategori/erkek/erkek_plajhavlusu-38"
+          },
+          {
+            "title": "purse",
+            "url": "kategori/erkek/erkek_semsiye-20"
+          },
+          {
+            "title": "scarf and scarf",
+            "url": "kategori/erkek/erkek_semsiye-20"
+          },
+          {
+            "title": "suit accessories",
+            "url": "kategori/erkek/erkek_semsiye-20"
+          },
+          {
+            "title": "more accessories",
+            "url": "kategori/erkek/erkek_semsiye-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "massimodutti",
+    "LogoUrl": "/img/logolist/massimodutti.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "special prices",
+            "url": "erkek/ozel-fiyatlar-n1412"
+          },
+          {
+            "title": "shirt",
+            "url": "erkek/gomlek-n1356"
+          },
+          {
+            "title": "sweater-cardigan",
+            "url": "erkek/kazak-n1384"
+          },
+          {
+            "title": "polo",
+            "url": "erkek/hirka-n1370"
+          },
+          {
+            "title": "t-shirts",
+            "url": "erkek/polo-tisort-n1407"
+          },
+          {
+            "title": "blazer",
+            "url": "erkek/tisort-n1369"
+          },
+          {
+            "title": "coats",
+            "url": "erkek/blazer-ceket-n1348"
+          },
+          {
+            "title": "leather jacket",
+            "url": "erkek/palto-n1344"
+          },
+          {
+            "title": "slim jacket",
+            "url": "erkek/ceket/deri-n1375"
+          },
+          {
+            "title": "trousers",
+            "url": "erkek/ust-giyim-n1553"
+          },
+          {
+            "title": "jeans",
+            "url": "erkek/pantolon-n1399"
+          },
+          {
+            "title": "chino pants",
+            "url": "erkek/pantolon/kot-n1405"
+          },
+          {
+            "title": "classic clothing",
+            "url": "erkek/pantolon/chino-n1400"
+          },
+          {
+            "title": "shoe",
+            "url": "erkek/takim-n1417"
+          },
+          {
+            "title": "accessory",
+            "url": "erkek/ayakkabi-n1420"
+          },
+          {
+            "title": "pajamas and underwear",
+            "url": "erkek/aksesuar-n1347"
+          },
+          {
+            "title": "beach wear",
+            "url": "erkek/homewear-n1531"
+          },
+          {
+            "title": "perfume and body care",
+            "url": "erkek/plaj-giyim-n1936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "nike",
+    "LogoUrl": "/img/logolist/nike.svg",
+    "MainCategory": [
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all shoes",
+            "url": "w/erkek-ayakkabilar-nik1zy7ok"
+          },
+          {
+            "title": "casual wear",
+            "url": "w/erkek-gunluk-giyim-ayakkabilar-13jrmznik1zy7ok"
+          },
+          {
+            "title": "jordan",
+            "url": "w/erkek-jordan-ayakkabilar-37eefznik1zy7ok"
+          },
+          {
+            "title": "running",
+            "url": "w/erkek-kosu-ayakkabilar-37v7jznik1zy7ok"
+          },
+          {
+            "title": "football",
+            "url": "w/erkek-futbol-ayakkabilar-1gdj0znik1zy7ok"
+          },
+          {
+            "title": "basketball",
+            "url": "w/erkek-basketbol-ayakkabilar-3glsmznik1zy7ok"
+          },
+          {
+            "title": "training and gym",
+            "url": "w/erkek-antrenman-ve-spor-salonu-ayakkabilar-58jtoznik1zy7ok"
+          },
+          {
+            "title": "skateboard",
+            "url": "w/erkek-kaykay-ayakkabilar-8mfrfznik1zy7ok"
+          },
+          {
+            "title": "nike by you",
+            "url": "w/erkek-nike-by-you-ayakkabilar-6ealhznik1zy7ok"
+          }
+        ]
+      },
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all clothing",
+            "url": "w/erkek-giysiler-6ymx6znik1"
+          },
+          {
+            "title": "tops & t-shirts",
+            "url": "w/erkek-tops-t-shirts-9om13znik1"
+          },
+          {
+            "title": "hoodies & sweatshirts",
+            "url": "w/erkek-hoodies-pullovers-6riveznik1"
+          },
+          {
+            "title": "shorts",
+            "url": "w/erkek-sortlar-38fphznik1"
+          },
+          {
+            "title": "trousers & tights",
+            "url": "w/erkek-pants-tights-2kq19znik1"
+          },
+          {
+            "title": "tracksuits",
+            "url": "w/erkek-tracksuits-1ll2wznik1"
+          },
+          {
+            "title": "tracksuit tops",
+            "url": "w/erkek-ceketler-ve-yelekler-50r7yznik1"
+          },
+          {
+            "title": "teams and jerseys",
+            "url": "w/erkek-formalar-3a41eznik1"
+          }
+        ]
+      },
+      {
+        "categoryName": "browse by sport",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all sports",
+            "url": "w/erkek-performance-3k7dgznik1"
+          },
+          {
+            "title": "running",
+            "url": "kosu"
+          },
+          {
+            "title": "football",
+            "url": "futbol"
+          },
+          {
+            "title": "basketball",
+            "url": "basketbol"
+          },
+          {
+            "title": "training and gym",
+            "url": "antrenman"
+          },
+          {
+            "title": "tennis",
+            "url": "w/erkek-tenis-ed1qznik1"
+          },
+          {
+            "title": "golf",
+            "url": "w/erkek-golf-23q9wznik1"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessories and equipment",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all accessories and equipment",
+            "url": "w/erkek-accessories-equipment-awwpwznik1"
+          },
+          {
+            "title": "bags & backpacks",
+            "url": "w/erkek-bags-backpacks-9xy71znik1"
+          },
+          {
+            "title": "socks",
+            "url": "w/erkek-socks-7ny3qznik1"
+          }
+        ]
+      }
+    ]
+  }
+]

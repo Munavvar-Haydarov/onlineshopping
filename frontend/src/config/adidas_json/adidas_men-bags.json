@@ -1,0 +1,338 @@
+[
+  {
+    "infoUrl": "https://www.adidas.com/us/linear-mini-backpack/GB4125.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/01843ecd51e84338afdfaf4c01151d95_9366/linear-mini-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d4e4c960fe7455ab6c0af4c0112e694_9366/linear-mini-backpack.jpg",
+    "price": "$28",
+    "title": "Linear Mini Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/national-backpack/GB0791.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6d72252800ff4d139ae8ae7d0002d580_9366/national-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/743edf06cce2428ea0e3ae7c018a5fb7_9366/national-backpack.jpg",
+    "price": "$35",
+    "title": "National Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/amplifier-2-crossbody-bag/GA5129.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/84a1414302494ce59b9dae6c01868ec9_9366/amplifier-2-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1854047fe9914dfd8ebcae6c0186efe7_9366/amplifier-2-crossbody-bag.jpg",
+    "price": "$27",
+    "title": "Amplifier 2 Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/national-backpack/GA5101.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f44ecd25fc21450db44dae6a012e9db8_9366/national-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd0948c61b7c45c5ad8aae6a012ee879_9366/national-backpack.jpg",
+    "price": "$35",
+    "title": "National Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/stadium-backpack/FZ6789.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ffc0974fb9a44a46a65fad4f00046eb3_9366/stadium-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/25b7dc39095a4e9e8710ad4f0003ba5c_9366/stadium-backpack.jpg",
+    "price": "$36",
+    "title": "Stadium Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/ready-backpack/GA5213.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/049bc027a3e6460387f9ae8801789644_9366/ready-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3beda33c68df4b63b36bae88017a449a_9366/ready-backpack.jpg",
+    "price": "$35",
+    "title": "Ready Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/energy-backpack/GB1634.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/011b798c718f4917b86eae9a011c2964_9366/energy-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/328e4eacddf344dd994dae9a011953c0_9366/energy-backpack.jpg",
+    "price": "$39",
+    "title": "Energy Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/essentials-crossbody-bag/GA5154.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/43ab0fab3c0b459c8ca1ae7c0162f53c_9366/essentials-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2b7070fefc74467484d9ae7c016034e8_9366/essentials-crossbody-bag.jpg",
+    "price": "$18",
+    "title": "Essentials Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/defender-iv-medium-duffel/GB4111.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f405957ae0ca43e59511af4c0114307d_9366/defender-iv-medium-duffel.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ad7b7ee6fd04d7a8f8aaf4c010b65be_9366/defender-iv-medium-duffel.jpg",
+    "price": "$45",
+    "title": "Defender IV Medium Duffel"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/prime-backpack/EX6958.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3ddf128e43e94ac98f01aca60114d626_9366/prime-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bbd8e91f0e7c49ffa58faca601167179_9366/prime-backpack.jpg",
+    "price": "$39",
+    "title": "Prime Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/micro-backpack/GB4176.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a41e394825674925b594af4c015c4387_9366/micro-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f69314a04fdb40b1a146af4c0156ae1a_9366/micro-backpack.jpg",
+    "price": "$28",
+    "title": "Micro Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/essentials-sling-crossbody-bag/GB4316.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b698527b0c9741baa94daefb00176c1e_9366/essentials-sling-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/320aaa5618d34674b484aefb000b4b28_9366/essentials-sling-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Essentials Sling Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/saturday-backpack/GB4310.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/06ba59f3c4494a0081c9aefb00279244_9366/saturday-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/916310dbc159499ab4dbaefb0027df89_9366/saturday-backpack.jpg",
+    "price": "$45",
+    "title": "Saturday Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/simple-tote-bag/GB4105.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1e8cec0eaf94b01ad83aef501671bf9_9366/simple-tote-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e0d4689c7fdb467e843caef5015bd283_9366/simple-tote-bag.jpg",
+    "price": "$45",
+    "title": "Simple Tote Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adicolor-backpack/HY1011.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/88e5bdd93c75420da17aaf1900ab3561_9366/adicolor-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8e7d32b8cc8749258c9daf1900ab5747_9366/adicolor-backpack.jpg",
+    "price": "$45",
+    "title": "Adicolor Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/amplifier-2-festival-crossbody-bag/GB4118.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fbd90256563466aaf00af4c0114f35f_9366/amplifier-2-festival-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9faacacb6d3f49ae82acaf4c01156c2d_9366/amplifier-2-festival-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Amplifier 2 Festival Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/originals-rectangle-crossbody/GA5090.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f4006f7a9c5479390e7ae6c0175dc21_9366/originals-rectangle-crossbody.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/23e1353c51f346b5945eae6c01763e2e_9366/originals-rectangle-crossbody.jpg",
+    "price": "$45",
+    "title": "Originals Rectangle Crossbody"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/utility-sling-bag/GB4099.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/865fe057346247c9bbf8af4c016aa835_9366/utility-sling-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a6ad8def87884389a20baf4c016a5512_9366/utility-sling-bag.jpg",
+    "price": "$45",
+    "title": "Utility Sling Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/santiago-lunch-bag/CJ9045.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/10ca0a126bc447a3922fa8e3000b8c62_9366/santiago-lunch-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8cec69da0293461db076a8e3000b4e0f_9366/santiago-lunch-bag.jpg",
+    "price": "$45",
+    "title": "Santiago Lunch Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adicolor-backpack/IC8532.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7f467c51e54c4e9dbd70aef50126d0dc_9366/adicolor-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/197aaf09cf4e4c378518aef50126f5cc_9366/adicolor-backpack.jpg",
+    "price": "$45",
+    "title": "Adicolor Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/amplifier-2-festival-crossbody-bag/GA5128.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed5ded5b9e094dbda077ae6c01847328_9366/amplifier-2-festival-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/04761a25503c457ba94eae6c0184cbbb_9366/amplifier-2-festival-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Amplifier 2 Festival Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/excel-lunch-bag/GA5158.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5075c40af8ea4e5a8c0eae7c0166c1e3_9366/excel-lunch-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bdfcbff899ad40dd901aae7c016611b7_9366/excel-lunch-bag.jpg",
+    "price": "$45",
+    "title": "Excel Lunch Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/utility-festival-crossbody-bag/GB4304.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/965c03f86cc54ef9b372aefb0027613a_9366/utility-festival-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/649c7c877f894e109c4faefb002341cb_9366/utility-festival-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Utility Festival Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adidas-adventure-waist-bag-large/HL6778.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5800e9a326134380898cae3e0118d7cb_9366/adidas-adventure-waist-bag-large.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ff6b17c9d454a6196cbae3e01190199_9366/adidas-adventure-waist-bag-large.jpg",
+    "price": "$45",
+    "title": "adidas Adventure Waist Bag Large"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/simple-tote-bag/GB4097.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1e476798002947e0af90af4c0152b658_9366/simple-tote-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/99e6e5d7639148ed98b9af4c01527ce5_9366/simple-tote-bag.jpg",
+    "price": "$45",
+    "title": "Simple Tote Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/shopper-bag/HK6488.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/80ac21c0094f4c86b3b3ae62012ca62b_9366/shopper-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d7fc1dfc4a1640c09bc1ae62012cc944_9366/shopper-bag.jpg",
+    "price": "$45",
+    "title": "Shopper Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/sport-tote-bag/GA5070.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4dbe16321f2146559d7cae6c01716fd3_9366/sport-tote-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dd36b20faaf64374abc2ae6c01707279_9366/sport-tote-bag.jpg",
+    "price": "$45",
+    "title": "Sport Tote Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/escape-backpack/HK6489.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8f5cb11ffb5341ca8ec6ae62012cf893_9366/escape-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/62e1ba8df2a84a3db6cfae62012d1d52_9366/escape-backpack.jpg",
+    "price": "$45",
+    "title": "Escape Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/classic-3-stripes-backpack/EX6510.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1502e9f986e34053ac8baca1003ca33d_9366/classic-3-stripes-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1fed84b5225e44319708aca1004812da_9366/classic-3-stripes-backpack.jpg",
+    "price": "$45",
+    "title": "Classic 3-Stripes Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/essentials-sling-crossbody-bag/GC0522.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/937850680780438a8243aefd0134a396_9366/essentials-sling-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5349541d22d7484fb8c8aefd01339320_9366/essentials-sling-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Essentials Sling Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/neck-pouch-crossbody-bag/GB4321.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6d62a145a33c41d89f37af4c015de514_9366/neck-pouch-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f9e4aef686b4b36b500af4c01580541_9366/neck-pouch-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Neck Pouch Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/premium-essentials-waist-bag/IB9347.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/54a534fba0ba4f279badaf43011407a1_9366/premium-essentials-waist-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/fb2b535ac9234b1489fcaf4301141e39_9366/premium-essentials-waist-bag.jpg",
+    "price": "$45",
+    "title": "Premium Essentials Waist Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/national-backpack/GB0794.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/003499bf3ff14ca9b5eaae7c01891339_9366/national-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/93b7e47f0a034c56b009ae7c01879f6e_9366/national-backpack.jpg",
+    "price": "$45",
+    "title": "National Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/sport-hip-pack-waist-bag/GB4305.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/06d2815f915a40bdaf7aaf4c011c537f_9366/sport-hip-pack-waist-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a6428b54ead24320a2fdaf4c011a4ced_9366/sport-hip-pack-waist-bag.jpg",
+    "price": "$45",
+    "title": "Sport Hip Pack Waist Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/energy-backpack/GA5198.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fc06f492d2b4df6b0abae88016b5674_9366/energy-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/670734e9a04242169377ae88016dbbd2_9366/energy-backpack.jpg",
+    "price": "$45",
+    "title": "Energy Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/trefoil-2.0-mini-backpack/GB9648.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/61b00a402707427b98e1afc000096342_9366/trefoil-2.0-mini-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5444bb24170441148a7eafc0000816ad_9366/trefoil-2.0-mini-backpack.jpg",
+    "price": "$45",
+    "title": "Trefoil 2.0 Mini Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/sport-hip-pack-waist-bag/GB4301.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ed8e7c15d434f9bb2b5af4c01196ac1_9366/sport-hip-pack-waist-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/aaf11b3def12433ba423af4c0116e090_9366/sport-hip-pack-waist-bag.jpg",
+    "price": "$45",
+    "title": "Sport Hip Pack Waist Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adicolor-backpack/IC8531.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d15d69a3835f4d7aa8aaaf56009ec7d3_9366/adicolor-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7a6566ca8174fb4935eaf56009ee99d_9366/adicolor-backpack.jpg",
+    "price": "$45",
+    "title": "Adicolor Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/ready-sackpack/GB4320.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bfda5e4d26ca4bc48a2baefb0017ceb4_9366/ready-sackpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/29a543229e2442d89d3baefb001250a6_9366/ready-sackpack.jpg",
+    "price": "$45",
+    "title": "Ready Sackpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adicolor-backpack/HY1012.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f305eb0403343ebafafaf1900ab7f86_9366/adicolor-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e1f93e3c0a8a46809b44af1900aba295_9366/adicolor-backpack.jpg",
+    "price": "$45",
+    "title": "Adicolor Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/alliance-sackpack/GB4366.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5988d8e7537b4dcfa38faefb00261eab_9366/alliance-sackpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/db52e610f1804018a705aefb0018ce27_9366/alliance-sackpack.jpg",
+    "price": "$45",
+    "title": "Alliance Sackpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adidas-adventure-backpack-small/HL6759.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ec628624056464a94cfae4a012df777_9366/adidas-adventure-backpack-small.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7d1cc6b71d954f9784ebae4a012e1875_9366/adidas-adventure-backpack-small.jpg",
+    "price": "$45",
+    "title": "adidas Adventure Backpack Small"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/utility-festival-crossbody-bag/GB4308.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/01e320d7895c4b0b9e54af4c016b1db3_9366/utility-festival-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dcbde647ad324d97b664af4c016b508f_9366/utility-festival-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Utility Festival Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/adicolor-backpack/IC8526.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3971a9bbdf5d4fc19e15af9e00c33c74_9366/adicolor-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2819f26b886945fb8709af9e00c36149_9366/adicolor-backpack.jpg",
+    "price": "$45",
+    "title": "Adicolor Backpack"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/defender-iv-medium-duffel/GB4121.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2339490c80744eea8cfeaf4c016e62a2_9366/defender-iv-medium-duffel.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b8f9139a1860464c842faf4c016d4a22_9366/defender-iv-medium-duffel.jpg",
+    "price": "$45",
+    "title": "Defender IV Medium Duffel"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/germany-sacoche/HS8880.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dcd5d4ad1d2a43f389b2af9d01037bc0_9366/germany-sacoche.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c92c2ebfe6a547a0a858af9d01039cdd_9366/germany-sacoche.jpg",
+    "price": "$45",
+    "title": "Germany Sacoche"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/essentials-crossbody-bag/GB4122.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4781097e22540929024aefb001d89e2_9366/essentials-crossbody-bag.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/63e678a528774dafbe6daefb001c87f6_9366/essentials-crossbody-bag.jpg",
+    "price": "$45",
+    "title": "Essentials Crossbody Bag"
+  },
+  {
+    "infoUrl": "https://www.adidas.com/us/saturday-backpack/GB4317.html",
+    "imgUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5d0b3189f19c47629279aefb002a77b2_9366/saturday-backpack.jpg",
+    "imgUrlHover": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b064dae7aea741ca94e9aefb0009b571_9366/saturday-backpack.jpg",
+    "price": "$45",
+    "title": "Saturday Backpack"
+  }
+]

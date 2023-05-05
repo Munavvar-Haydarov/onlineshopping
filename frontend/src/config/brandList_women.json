@@ -1,0 +1,1585 @@
+[
+  {
+    "LogoName": "adidas",
+    "LogoUrl": "/img/logolist/adidas.svg",
+    "MainCategory": [
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "kadin-ayakkabi-yeni_urunler"
+          },
+          {
+            "title": "originals",
+            "url": "kadin-ayakkabi-originals"
+          },
+          {
+            "title": "running",
+            "url": "kadin-kosu-ayakkabi"
+          },
+          {
+            "title": "training",
+            "url": "kadin-training-ayakkabi"
+          },
+          {
+            "title": "sport inspired",
+            "url": "kadin-sport_inspired-ayakkabi"
+          },
+          {
+            "title": "outdoor",
+            "url": "kadin-outdoor-ayakkabi"
+          },
+          {
+            "title": "sandals and slipper",
+            "url": "kadin-terlik"
+          },
+          {
+            "title": "tennis",
+            "url": "kadin-tenis-ayakkabi"
+          },
+          {
+            "title": "1199₺ and under shoes",
+            "url": "kadin-ayakkabi?price_max=1199&price_min=1"
+          }
+        ]
+      },
+      {
+        "categoryName": "clothing",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "kadin-giyim-yeni_urunler"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "kadin-giyim-sweatshirt"
+          },
+          {
+            "title": "t-shirt and tank",
+            "url": "kadin-giyim-atlet%7Ctisort"
+          },
+          {
+            "title": "sports bras",
+            "url": "kadin-giyim-sporcu_sutyeni"
+          },
+
+          {
+            "title": "coats",
+            "url": "kadin-ceket_mont-giyim"
+          },
+          {
+            "title": "sweatpants",
+            "url": "kadin-esofman_alti-giyim"
+          },
+          {
+            "title": "leggings",
+            "url": "kadin-tayt"
+          },
+          {
+            "title": "shorts",
+            "url": "kadin-sort-giyim"
+          },
+          {
+            "title": "underwear",
+            "url": "kadin-ic_camasir"
+          },
+          {
+            "title": "dress and skirt",
+            "url": "kadin-elbise_ve_etek-giyim"
+          },
+
+          {
+            "title": "swimsuit",
+            "url": "kadin-mayo"
+          },
+          {
+            "title": "949₺ and under clothing",
+            "url": "kadin-giyim?price_max=949&price_min=1"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessories",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "new products",
+            "url": "kadin-aksesuar-yeni_urunler"
+          },
+          {
+            "title": "masks",
+            "url": "kadin-yuz_aksesuari"
+          },
+          {
+            "title": "bag",
+            "url": "kadin-canta"
+          },
+          {
+            "title": "backpacks",
+            "url": "kadin-sirt_cantasi"
+          },
+          {
+            "title": "training bags",
+            "url": "kadin-training-canta"
+          },
+          {
+            "title": "sock",
+            "url": "kadin-corap"
+          }
+        ]
+      },
+      {
+        "categoryName": "sports categories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": [
+          {
+            "title": "running",
+            "url": "erkek-kosu"
+          },
+          {
+            "title": "swimming",
+            "url": "kadin-yuzme"
+          },
+          {
+            "title": "yoga",
+            "url": "yoga"
+          },
+          {
+            "title": "training",
+            "url": "kadin-training"
+          },
+          {
+            "title": "outdoor",
+            "url": "kadin-outdoor"
+          },
+          {
+            "title": "tennis",
+            "url": "kadin-tenis"
+          }
+        ]
+      },
+      {
+        "categoryName": "sustainable",
+        "categoryUrl": "",
+        "branchname": [
+          {
+            "title": "sustainable",
+            "url": "kadin-surdurulebilir"
+          },
+          {
+            "title": "vegan",
+            "url": "kadin-vegan"
+          }
+        ]
+      },
+      {
+        "categoryName": "COLLECTIONS",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": [
+          {
+            "title": "gazelle",
+            "url": "kadin-gazelle"
+          },
+          {
+            "title": "superstar",
+            "url": "kadin-superstar"
+          },
+          {
+            "title": "stan smith",
+            "url": "kadin-stan_smith"
+          },
+          {
+            "title": "adicolor",
+            "url": "kadin-originals-adicolor"
+          },
+          {
+            "title": "ultraboost",
+            "url": "kadin-ultraboost"
+          },
+          {
+            "title": "ozweego",
+            "url": "kadin-ozweego"
+          },
+          {
+            "title": "y-3",
+            "url": "kadin-y3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "defacto",
+    "LogoUrl": "/img/logolist/defacto.svg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "holiday collection",
+            "url": "kadin-bayram-koleksiyonu"
+          },
+          {
+            "title": "buy 5 pay 4",
+            "url": "kadin-tisort-kampanyasi"
+          },
+          {
+            "title": "discounted products",
+            "url": "indirimli-urunler?filtre=cinsiyet:kadin"
+          },
+          {
+            "title": "favorites of the week",
+            "url": "arama?fx_sb1=280&fx_sb2=6751"
+          },
+          {
+            "title": "show all of them",
+            "url": "kadin-giyim"
+          },
+          {
+            "title": "t-shirt",
+            "url": "kadin-t-shirt"
+          },
+          {
+            "title": "trousers",
+            "url": "kadin-pantolon"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "kadin-sweatshirt"
+          },
+          {
+            "title": "sweatpants",
+            "url": "kadin-esofman-alti"
+          },
+          {
+            "title": "jeans",
+            "url": "kadin-denim"
+          },
+          {
+            "title": "shirt",
+            "url": "kadin-gomlek"
+          },
+          {
+            "title": "dress",
+            "url": "kadin-elbise"
+          },
+          {
+            "title": "blouse",
+            "url": "kadin-bluz"
+          },
+          {
+            "title": "tunic",
+            "url": "kadin-tunik"
+          },
+          {
+            "title": "skirt",
+            "url": "kadin-tayt"
+          },
+          {
+            "title": "leggings",
+            "url": "kadin-etek"
+          },
+          {
+            "title": "jean skirt",
+            "url": "kadin-denim?filtre=kategori:etek"
+          },
+          {
+            "title": "jumper",
+            "url": "kadin-kazak"
+          },
+          {
+            "title": "cardigan",
+            "url": "kadin-hirka"
+          },
+          {
+            "title": "sweater",
+            "url": "kadin-suveter"
+          },
+          {
+            "title": "show all of them",
+            "url": "kadin-dis-giyim"
+          },
+          {
+            "title": "coats",
+            "url": "kadin-mont"
+          },
+          {
+            "title": "trench coat",
+            "url": "kadin-trenckot"
+          },
+          { "title": "raincoat", "url": "kadin-yagmurluk" },
+          { "title": "jacket", "url": "kadin-ceket" },
+          { "title": "blazer jacket", "url": "kadin-blazer-ceket" },
+          { "title": "leather jacket", "url": "kadin-deri-ceket" },
+          { "title": "jean jacket", "url": "kadin-jean-ceket" },
+          { "title": "waistcoat", "url": "kadin-yelek" },
+          {
+            "title": "inflatable coat",
+            "url": "arama?fx_sb1=3937&fx_sb2=5283"
+          },
+          { "title": "cachet coat", "url": "arama?fx_sb1=3937&fx_sb2=5284" },
+          { "title": "coat and parka", "url": "kadin-kaban-parka" },
+          { "title": "show all of them", "url": "kadin-plaj-giyim" },
+          { "title": "bikini top", "url": "kadin-bikini-ust" },
+          { "title": "bikini bottom", "url": "kadin-bikini-alt" },
+          { "title": "swimsuit", "url": "kadin-mayo" },
+          { "title": "hijab swimwear", "url": "kadin-tesettur-mayo" },
+          { "title": "swimming shorts", "url": "kadin-yuzme-sortu" },
+          { "title": "pareo", "url": "kadin-pareo" },
+          { "title": "show all of them", "url": "kadin-spor-giyim" },
+          {
+            "title": "sweatshirt",
+            "url": "kadin-spor-giyim?filtre=kategori:sweatshirt"
+          },
+          {
+            "title": "sweatpants",
+            "url": "kadin-spor-giyim?filtre=kategori:esofman-alti"
+          },
+          {
+            "title": "athlete",
+            "url": "kadin-spor-giyim?filtre=kategori:atlet"
+          },
+          {
+            "title": "t-shirt",
+            "url": "kadin-spor-giyim?filtre=kategori:t-shirt"
+          },
+          {
+            "title": "leggings",
+            "url": "kadin-spor-giyim?filtre=kategori:tayt"
+          },
+          {
+            "title": "sports bra",
+            "url": "kadin-spor-giyim?filtre=kategori:spor-sutyen"
+          },
+          { "title": "shorts", "url": "kadin-spor-giyim?filtre=kategori:sort" },
+          { "title": "show all of them", "url": "kadin-ev-giyim" },
+          { "title": "pajamas set", "url": "kadin-pijama-takim" },
+          { "title": "pajama bottoms", "url": "kadin-pijama-alt" },
+          { "title": "pajama top", "url": "kadin-pijama-ust" },
+          {
+            "title": "fleece pajamas",
+            "url": "kadin-tumu?fx_sb1=280&fx_sb2=7019"
+          },
+          { "title": "nighty", "url": "kadin-gecelik" },
+          { "title": "home slippers", "url": "kadin-ev-terligi" },
+          { "title": "show all of them", "url": "kadin-ic-giyim" },
+          { "title": "bodysuit", "url": "kadin-bodysuit" },
+          { "title": "bra", "url": "kadin-sutyen" },
+          { "title": "briefs", "url": "kadin-kulot" },
+          { "title": "underwear shinglet", "url": "kadin-ic-giyim-atlet" },
+          { "title": "multi-package", "url": "kadin-coklu-paket" },
+          { "title": "outlet", "url": "outlet" }
+        ]
+      },
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "new season sports shoes",
+            "url": "kadin-spor-ayakkabi"
+          },
+          {
+            "title": "show all of them",
+            "url": "kadin-ayakkabi"
+          },
+          {
+            "title": "sneakers",
+            "url": "kadin-spor-ayakkabi"
+          },
+          {
+            "title": "evening dress-heeled shoes",
+            "url": "abiye-ayakkabi"
+          },
+          {
+            "title": "licensed shoes",
+            "url": "arama?fx_sb1=280&fx_sb2=5349&fx_c1=2"
+          },
+          {
+            "title": "slipper",
+            "url": "kadin-terlik"
+          },
+          {
+            "title": "sandals",
+            "url": "kadin-sandalet"
+          },
+          {
+            "title": "home slippers",
+            "url": "kadin-ev-terligi"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "50% discount in basket on perfumes",
+            "url": "kadin-parfum"
+          },
+          {
+            "title": "purse",
+            "url": "kadin-cuzdan"
+          },
+          {
+            "title": "show all of them",
+            "url": "kadin-aksesuar"
+          },
+          {
+            "title": "socks buy 2 pay 1",
+            "url": "kadin-corap"
+          },
+          {
+            "title": "bag",
+            "url": "kadin-canta"
+          },
+          {
+            "title": "perfume basket 50% discount",
+            "url": "kadin-parfum"
+          },
+          {
+            "title": "shawl & scarf",
+            "url": "kadin-sal"
+          },
+          {
+            "title": "belt",
+            "url": "kadin-kemer"
+          },
+          {
+            "title": "purse",
+            "url": "kadin-cuzdan"
+          },
+          {
+            "title": "hat",
+            "url": "kadin-sapka"
+          },
+          { "title": "towel", "url": "kadin-havlu" },
+          { "title": "scarf hat and gloves", "url": "kadin-atki-bere-eldiven" },
+          {
+            "title": "jewelry & clasp",
+            "url": "kadin-sac-aksesuarlari?filtre=kategori:taki"
+          },
+          { "title": "suitcase", "url": "kadin-valiz" },
+          { "title": "canteen", "url": "arama?fx_sb1=280&fx_sb2=2857" },
+          { "title": "sock", "url": "kadin-corap" }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "bershka",
+    "LogoUrl": "/img/logolist/bershka.svg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "bestsellers",
+            "url": "kadin/gi%CC%87yi%CC%87m/%C3%A7ok-satanlar-c1010242586"
+          },
+          {
+            "title": "summer feelings",
+            "url": "kadin/gi%CC%87yi%CC%87m/summer-feelings-c1010633770"
+          },
+          {
+            "title": "denim",
+            "url": "kadin/gi%CC%87yi%CC%87m/denim-c1010193229"
+          },
+          {
+            "title": "dress and overalls",
+            "url": "kadin/gi%CC%87yi%CC%87m/elbise-c1010193213"
+          },
+          {
+            "title": "t-shirt",
+            "url": "kadin/gi%CC%87yi%CC%87m/ti%C5%9F%C3%B6rt-c1010193217"
+          },
+          {
+            "title": "ball and corset",
+            "url": "kadin/gi%CC%87yi%CC%87m/top-ve-korse-c1010193220"
+          },
+          {
+            "title": "shirt-blouse",
+            "url": "kadin/gi%CC%87yi%CC%87m/g%C3%B6mlek---bluz-c1010193221"
+          },
+          {
+            "title": "knitwear",
+            "url": "kadin/gi%CC%87yi%CC%87m/triko-c1010582169"
+          },
+          {
+            "title": "jacket and trench coat",
+            "url": "kadin/gi%CC%87yi%CC%87m/ceket-c1010193212"
+          },
+          {
+            "title": "blazer",
+            "url": "kadin/gi%CC%87yi%CC%87m/blazer-c1010205537"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "kadin/gi%CC%87yi%CC%87m/sweatshirt-c1010193222"
+          },
+          {
+            "title": "cargo and parachute",
+            "url": "kadin/gi%CC%87yi%CC%87m/kargo-ve-para%C5%9F%C3%BCt-c1010550561"
+          },
+          {
+            "title": "trousers",
+            "url": "kadin/gi%CC%87yi%CC%87m/pantolon-c1010193216"
+          },
+          {
+            "title": "jean",
+            "url": "kadin-tunik"
+          },
+          {
+            "title": "skirt",
+            "url": "kadin/gi%CC%87yi%CC%87m/etek-c1010193224"
+          },
+          {
+            "title": "shorts",
+            "url": "kadin/gi%CC%87yi%CC%87m/%C5%9Fort---bermuda-c1010194517"
+          },
+          {
+            "title": "bikini-swimwear",
+            "url": "kadin/gi%CC%87yi%CC%87m/bikini---mayo-c1010361506"
+          },
+          {
+            "title": "suit",
+            "url": "kadin/gi%CC%87yi%CC%87m/tak%C4%B1m-elbise-c1010280033"
+          },
+          {
+            "title": "seamless",
+            "url": "kadin/gi%CC%87yi%CC%87m/seamless-c1010594177"
+          },
+          {
+            "title": "basic",
+            "url": "kadin/gi%CC%87yi%CC%87m/basic-c1010545573"
+          },
+          {
+            "title": "total look",
+            "url": "kadin/gi%CC%87yi%CC%87m/total-look-c1010429555"
+          },
+          {
+            "title": "bsk teen",
+            "url": "kadin/gi%CC%87yi%CC%87m/bsk-teen-c1010502011"
+          },
+          {
+            "title": "collaborations",
+            "url": "kadin/collaborations%C2%AE-c1010310507"
+          }
+        ]
+      },
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "see all",
+            "url": "kadin/ayakkab%C4%B1-c1010193192"
+          },
+          {
+            "title": "new",
+            "url": "kadin/ayakkab%C4%B1/yeni-c1010391508"
+          },
+          {
+            "title": "sneakers",
+            "url": "kadin/ayakkab%C4%B1/spor-ayakkab%C4%B1-c1010205525"
+          },
+          {
+            "title": "heeled shandals",
+            "url": "kadin/ayakkab%C4%B1/topuklu-sandalet-c1010205529"
+          },
+          {
+            "title": "flat sandals",
+            "url": "kadin/ayakkab%C4%B1/d%C3%BCz-sandalet-c1010205533"
+          },
+          {
+            "title": "heeled shoes",
+            "url": "kadin/ayakkab%C4%B1/topuklu-ayakkab%C4%B1-c1010205526"
+          },
+          {
+            "title": "flat shoes",
+            "url": "kadin/ayakkab%C4%B1/d%C3%BCz-ayakkab%C4%B1-c1010205528"
+          },
+          {
+            "title": "boots and ankle boots",
+            "url": "kadin/ayakkab%C4%B1/%C3%A7izme-ve-bilekte-bot-c1010205534"
+          },
+          {
+            "title": "platform",
+            "url": "kadin/ayakkab%C4%B1/platform-c1010378018"
+          },
+          {
+            "title": "special prices",
+            "url": "kadin/ayakkab%C4%B1/special-prices-c1010372580"
+          },
+          {
+            "title": "cowboy",
+            "url": "kadin/ayakkab%C4%B1/cowboy-c1010618266"
+          },
+          {
+            "title": "collaborations",
+            "url": "kadin/ayakkab%C4%B1/collaborations%C2%AE-c1010442006"
+          }
+        ]
+      },
+      {
+        "categoryName": "bag accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "see all",
+            "url": "kadin/%C3%A7anta---aksesuar-c1010193134"
+          },
+          {
+            "title": "bag",
+            "url": "kadin/%C3%A7anta---aksesuar/%C3%A7anta-c1010193138"
+          },
+          {
+            "title": "bijouterie",
+            "url": "kadin/%C3%A7anta---aksesuar/bijuteri-c1010193140"
+          },
+          {
+            "title": "purse",
+            "url": "kadin/%C3%A7anta---aksesuar/c%C3%BCzdan-c1010193139"
+          },
+          {
+            "title": "hat-beret",
+            "url": "kadin/%C3%A7anta---aksesuar/g%C3%B6zl%C3%BCk-c1010193149"
+          },
+          {
+            "title": "glasses",
+            "url": "kadin/%C3%A7anta---aksesuar/g%C3%B6zl%C3%BCk-c1010193149"
+          },
+          {
+            "title": "belt",
+            "url": "kadin/%C3%A7anta---aksesuar/kemer-c1010193146"
+          },
+          {
+            "title": "hair accessories",
+            "url": "kadin/%C3%A7anta---aksesuar/sa%C3%A7-aksesuar%C4%B1-c1010193147"
+          },
+          {
+            "title": "sock",
+            "url": "kadin/%C3%A7anta---aksesuar/%C3%A7orap-c1010194004"
+          },
+          {
+            "title": "perfume",
+            "url": "kadin/%C3%A7anta---aksesuar/parf%C3%BCm-c1010269028"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "hm",
+    "LogoUrl": "/img/logolist/hm.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "new products",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "view all",
+            "url": "kadin/yeni-urunler/view-all"
+          },
+          {
+            "title": "clothes",
+            "url": "kadin/yeni-urunler/giysi"
+          },
+          {
+            "title": "shoes & accessories",
+            "url": "kadin/yeni-urunler/ayakkabi-aksesuar"
+          },
+          {
+            "title": "swimsuit",
+            "url": "kadin/yeni-urunler/plaj-klyafetleri"
+          },
+          {
+            "title": "underwear and pajamas",
+            "url": "kadin/yeni-urunler/underwear-nightwear"
+          }
+        ]
+      },
+      {
+        "categoryName": "discounts",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "holiday opportunities",
+            "url": "kadin/deals/bayram-firsatlari"
+          }
+        ]
+      },
+      {
+        "categoryName": "trending products",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "time to celebrate",
+            "url": "kadin/sezon-trendleri/celebrations"
+          },
+          {
+            "title": "new|beach chic",
+            "url": "kadin/sezon-trendleri/beachwear-destination"
+          },
+          {
+            "title": "must-haves|spring",
+            "url": "kadin/sezon-trendleri/ilkbahar"
+          },
+          {
+            "title": "trend|linen",
+            "url": "kadin/sezon-trendleri/keten"
+          },
+          {
+            "title": "exclusive",
+            "url": "kadin/sezon-trendleri/special-selection-drops"
+          },
+          {
+            "title": "the occasion edit",
+            "url": "kadin/sezon-trendleri/the-occasion-edit"
+          },
+          {
+            "title": "H&M edition",
+            "url": "kadin/sezon-trendleri/trend-konsepti"
+          }
+        ]
+      },
+      {
+        "categoryName": "buy by product",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "view all",
+            "url": "kadin/urune-gore-satin-al/view-all"
+          },
+          {
+            "title": "beach clothes",
+            "url": "kadin/urune-gore-satin-al/plaj-klyafetleri"
+          },
+          {
+            "title": "dress",
+            "url": "kadin/urune-gore-satin-al/elbise"
+          },
+          {
+            "title": "shirts&blouse",
+            "url": "kadin/urune-gore-satin-al/gomlek-bluz"
+          },
+          {
+            "title": "top",
+            "url": "kadin/urune-gore-satin-al/ust"
+          },
+          {
+            "title": "basic",
+            "url": "kadin/urune-gore-satin-al/basicler"
+          },
+          {
+            "title": "sweatshirts & hoodies",
+            "url": "kadin/urune-gore-satin-al/kapusonlular-sweatshirtler"
+          },
+          {
+            "title": "jacket & coat",
+            "url": "kadin/urune-gore-satin-al/ceket-kaban"
+          },
+          {
+            "title": "jacket",
+            "url": "kadin/urune-gore-satin-al/blazer-yelek"
+          },
+          {
+            "title": "trousers",
+            "url": "kadin/urune-gore-satin-al/pantolon"
+          },
+          {
+            "title": "overalls & shorts overalls",
+            "url": "kadin/urune-gore-satin-al/tulum-sort-tulum"
+          },
+          {
+            "title": "jean",
+            "url": "kadin/urune-gore-satin-al/jean"
+          },
+          {
+            "title": "skirt",
+            "url": "kadin/urune-gore-satin-al/etek"
+          },
+          {
+            "title": "shorts",
+            "url": "kadin/urune-gore-satin-al/sort"
+          },
+          {
+            "title": "underwear",
+            "url": "kadin/urune-gore-satin-al/ic-camasir"
+          },
+          {
+            "title": "nighty",
+            "url": "kadin/urune-gore-satin-al/gecelik"
+          },
+          {
+            "title": "home clothes",
+            "url": "kadin/urune-gore-satin-al/ev-kiyafetleri"
+          },
+          {
+            "title": "shoe",
+            "url": "kadin/urune-gore-satin-al/ayakkabi"
+          },
+          {
+            "title": "stockings & tights",
+            "url": "kadin/urune-gore-satin-al/corap-kulotlu-corap"
+          },
+          {
+            "title": "accessory",
+            "url": "kadin/urune-gore-satin-al/aksesuar"
+          },
+          {
+            "title": "sportswear",
+            "url": "kadin/urune-gore-satin-al/spor-giyim"
+          },
+          {
+            "title": "maternity clothing",
+            "url": "kadin/urune-gore-satin-al/hamile-giyim"
+          },
+          {
+            "title": "premium selection",
+            "url": "kadin/urune-gore-satin-al/premium-selection"
+          },
+          {
+            "title": "big size",
+            "url": "kadin/urune-gore-satin-al/buyuk-beden"
+          },
+          {
+            "title": "dog clothes and accessories",
+            "url": "kadin/urune-gore-satin-al/kopek-kiyafetleri"
+          },
+          {
+            "title": "cosmetics",
+            "url": "kadin/urune-gore-satin-al/bakim-urunleri"
+          },
+          {
+            "title": "cardigan & sweater",
+            "url": "kadin/urune-gore-satin-al/hirka-kazak"
+          }
+        ]
+      },
+      {
+        "categoryName": "sustainability",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "our products",
+            "url": "kadin/surdurulebilirlik/our-products"
+          },
+          {
+            "title": "H&M take care",
+            "url": "kadin/surdurulebilirlik/take-care"
+          }
+        ]
+      },
+      {
+        "categoryName": "evening dress & invitation",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "special day",
+            "url": "kadin/davet/ozelgunler"
+          },
+          {
+            "title": "home clothes",
+            "url": "kadin/davet/ev-kiyafetleri"
+          },
+          {
+            "title": "office clothes",
+            "url": "kadin/davet/ofis-giyim"
+          },
+          {
+            "title": "wedding",
+            "url": "kadin/davet/dugun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "lcwaikiki",
+    "LogoUrl": "/img/logolist/lc-waikiki.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "t-shirt",
+            "url": "kategori/kadin/tisort"
+          },
+          {
+            "title": "trousers",
+            "url": "kategori/kadin/pantolon"
+          },
+          {
+            "title": "dress and jumpsuit",
+            "url": "kategori/kadin/elbise"
+          },
+          {
+            "title": "blouse",
+            "url": "kategori/kadin/bluz"
+          },
+          {
+            "title": "tunic",
+            "url": "kategori/kadin/Tunik"
+          },
+          {
+            "title": "jean",
+            "url": "kategori/kadin/jean"
+          },
+          {
+            "title": "sweatshirt",
+            "url": "kategori/kadin/Sweatshirt"
+          },
+          {
+            "title": "sweatpants",
+            "url": "kategori/kadin/esofman-alt"
+          },
+          {
+            "title": "shirt",
+            "url": "kategori/kadin/gomlek"
+          },
+          {
+            "title": "skirt",
+            "url": "kategori/kadin/etek"
+          },
+          {
+            "title": "leggings",
+            "url": "kategori/kadin/tayt"
+          },
+          {
+            "title": "trench coat",
+            "url": "kategori/kadin/trenckot"
+          },
+          {
+            "title": "shorts & capri",
+            "url": "kategori/kadin/sort-ve-capri"
+          },
+          {
+            "title": "hijab clothing / modest",
+            "url": "etiket/tesettur-giyim"
+          },
+          {
+            "title": "maternit clothing",
+            "url": "kategori/kadin/hamile-giyim"
+          },
+          {
+            "title": "active sports & outdoor",
+            "url": "etiket/kadin-aktif-spor-giyim"
+          },
+          {
+            "title": "jacket",
+            "url": "kategori/kadin/ceket"
+          },
+          {
+            "title": "raincoat",
+            "url": "kategori/kadin/kadin_yagmurluk-64"
+          },
+          {
+            "title": "beach wear",
+            "url": "kategori/kadin/plaj-kiyafeti"
+          },
+          {
+            "title": "cardigan and sweater",
+            "url": "kategori/kadin/hirka"
+          },
+          {
+            "title": "waistcoat",
+            "url": "kategori/kadin/yelek"
+          },
+          {
+            "title": "jumper",
+            "url": "kategori/kadin/kazak"
+          },
+          {
+            "title": "coats and coats",
+            "url": "kategori/kadin/kadin_mont_kaban-56"
+          }
+        ]
+      },
+      {
+        "categoryName": "underwear, pajamas",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "pyjamas set",
+            "url": "kategori/kadin/pijama"
+          },
+          {
+            "title": "underwear",
+            "url": "kategori/kadin/ic-giyim"
+          },
+          {
+            "title": "sock",
+            "url": "kategori/kadin/%C3%87orap"
+          },
+          {
+            "title": "multi-packages",
+            "url": "etiket/kadin-coklu-paket"
+          }
+        ]
+      },
+      {
+        "categoryName": "shoe",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "sneakers",
+            "url": "kategori/kadin/spor-ayakkabi"
+          },
+          {
+            "title": "flats and loafers",
+            "url": "kategori/kadin/babet-155"
+          },
+          {
+            "title": "slippers and sandals",
+            "url": "kategori/kadin/terlik-ve-sandalet"
+          },
+          {
+            "title": "heeled shoes",
+            "url": "kategori/kadin/topuklu-ayakkabi"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessory",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "bag and wallet",
+            "url": "kategori/kadin/canta_ve_cuzdan_kadin-83"
+          },
+          {
+            "title": "hat",
+            "url": "kategori/kadin/sapka"
+          },
+          {
+            "title": "scarf and shawl",
+            "url": "kategori/kadin/kadin_fular_sal-62"
+          },
+          {
+            "title": "belt",
+            "url": "kategori/kadin/kemer"
+          },
+          {
+            "title": "cosmetics / personal care",
+            "url": "kategori/kadin/kozmetik-ve-kisisel-bakim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "mac",
+    "LogoUrl": "/img/logolist/mac.svg",
+    "MainCategory": [
+      {
+        "categoryName": "sale",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "sale",
+            "url": "holiday-deals"
+          }
+        ]
+      },
+      {
+        "categoryName": "new",
+        "categoryUrl": "/img/logolist/adiddas-clothing.webp",
+        "branchname": [
+          {
+            "title": "studio fix loose powder",
+            "url": "product/13849/106954/products/makeup/face/powder/studio-fix-pro-set-blur-weightless-loose-powder?shade=Light"
+          },
+          {
+            "title": "skinfinish sunstruck matte bronzer",
+            "url": "product/13842/116033/products/makeup/face/blush-bronzer/skinfinish-sunstruck-matte-bronzer?shade=Matte_Rich_Golden"
+          },
+          {
+            "title": "skinfinish sunstruck radian bronzer",
+            "url": "product/13842/116035/products/makeup/face/blush-bronzer/skinfinish-sunstruck-radiant-bronzer?shade=Radiant_Deep_Golden"
+          },
+          {
+            "title": "hyper real collection",
+            "url": "hyper-real-skincare"
+          },
+          {
+            "title": "mac stack waterproof mascara",
+            "url": "product/13839/107250/products/makeup/eyes/mascara/macstack-waterproof-mascara?shade=Black_Stack"
+          },
+          {
+            "title": "chili's crew",
+            "url": "chilis-crew"
+          }
+        ]
+      },
+      {
+        "categoryName": "best sellers",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "bestsellers",
+            "url": "bestsellers"
+          }
+        ]
+      },
+      {
+        "categoryName": "lips",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "lipsticks",
+            "url": "products/13854/lips/lipstick"
+          },
+          {
+            "title": "lip glosses",
+            "url": "products/13853/lips/lip-gloss"
+          },
+          {
+            "title": "liquid lip colours",
+            "url": "mac-liquid-lipstick"
+          },
+          {
+            "title": "lip liners",
+            "url": "product/13852/340/products/makeup/lips/lip-liner/lip-pencil#!/shade/Burgundy"
+          },
+          {
+            "title": "lip palettes + kits",
+            "url": "products/13851/products/makeup/lips/lip-palettes-kits"
+          },
+          {
+            "title": "lip balm + primers",
+            "url": "products/14766/lips/lip-care-primer"
+          },
+          {
+            "title": "mini mac",
+            "url": "mpp-custom-mini-mac#lipstick"
+          },
+          {
+            "title": "lip colour finder",
+            "url": "lipstick-shade-finder"
+          },
+          {
+            "title": "virtual try-on",
+            "url": "virtual-try-on#lips"
+          }
+        ]
+      },
+      {
+        "categoryName": "face",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "foundations",
+            "url": "products/13847/face/foundation"
+          },
+          {
+            "title": "powders",
+            "url": "products/13849/face/powder"
+          },
+          {
+            "title": "blushes + bronzers",
+            "url": "products/13842/face/blush-bronzer"
+          },
+          {
+            "title": "concealers",
+            "url": "products/13844/face/concealer"
+          },
+          {
+            "title": "highlighters",
+            "url": "products/20158/face/highlighting-contouring"
+          },
+          {
+            "title": "face palettes + kits",
+            "url": "products/13845/face/face-kits"
+          },
+          {
+            "title": "glitters + pigments",
+            "url": "products/13848/face/glitter-pigment"
+          },
+          {
+            "title": "foundation finder",
+            "url": "foundation-shade-finder"
+          },
+          {
+            "title": "face primers",
+            "url": "products/13825/primers"
+          },
+          {
+            "title": "eye primers",
+            "url": "products/14756/eyes/eye-primer"
+          },
+          {
+            "title": "lip primers",
+            "url": "products/14766/lips/lip-care-primer"
+          },
+          {
+            "title": "makeup setting sprays",
+            "url": "products/31845/face/makeup-setting-sprays"
+          }
+        ]
+      },
+      {
+        "categoryName": "eyes",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "eye shadows",
+            "url": "products/13840/eyes/eyeshadow"
+          },
+          {
+            "title": "eye liners",
+            "url": "products/13838/eyes/eyeliner"
+          },
+          {
+            "title": "mascaras",
+            "url": "products/13839/eyes/mascara"
+          },
+          {
+            "title": "brows",
+            "url": "products/13834/eyes/eyebrow"
+          },
+          {
+            "title": "lashes",
+            "url": "products/13837/eyes/eyelashes"
+          },
+          {
+            "title": "eye palettes + kits",
+            "url": "products/13835/eyes/eye-palettes-kits"
+          },
+          {
+            "title": "eye primers",
+            "url": "products/14756/eyes/eye-primer"
+          },
+          {
+            "title": "virtual try-on",
+            "url": "virtual-try-on"
+          },
+          {
+            "title": "custom palette",
+            "url": "customizeyourpalette"
+          },
+          {
+            "title": "eye shadow finder",
+            "url": "eye-shadow-finder"
+          }
+        ]
+      },
+      {
+        "categoryName": "brushes",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "eye brushes",
+            "url": "products/13804/eye-brushes"
+          },
+          {
+            "title": "lip brushes",
+            "url": "products/13806/lip-brushes"
+          },
+          {
+            "title": "face brushes",
+            "url": "products/13805/face-brushes"
+          },
+          {
+            "title": "all brushes",
+            "url": "products/13802/all-brushes"
+          },
+          {
+            "title": "sponges + applicators",
+            "url": "products/13811/tools/sponges-applicators"
+          },
+          {
+            "title": "accessories",
+            "url": "products/14327/tools/accessories"
+          },
+          {
+            "title": "bags",
+            "url": "products/13812/tools/bags"
+          },
+          {
+            "title": "pro palettes",
+            "url": "modular-pro-palette"
+          },
+          {
+            "title": "all pro products",
+            "url": "products/21085/all-pro"
+          }
+        ]
+      },
+      {
+        "categoryName": "skin",
+        "categoryUrl": "/img/logolist/adiddas-accessories.png",
+        "branchname": [
+          {
+            "title": "face primers",
+            "url": "products/13825/products/skincare/primers"
+          },
+          {
+            "title": "eye primers",
+            "url": "products/14756/Products/Makeup/Eyes/Eye-Primer"
+          },
+          {
+            "title": "lip primers",
+            "url": "products/14766/Products/Makeup/Lips/Lip-Care-Primer"
+          },
+          {
+            "title": "setting sprays",
+            "url": "setting-sprays"
+          },
+          {
+            "title": "cleansers + makeup removers",
+            "url": "products/13826/removers-cleansers"
+          },
+          {
+            "title": "serums + traatments",
+            "url": "products/31843/serums-treatments"
+          },
+          {
+            "title": "moisturizers",
+            "url": "products/13824/moisturizers"
+          },
+          {
+            "title": "eye + lip treatments",
+            "url": "products/31847/products/skincare/eye-lip-treatments"
+          },
+          {
+            "title": "masks + exfoliators",
+            "url": "products/31842/products/skincare/masks-exfoliators"
+          },
+          {
+            "title": "mini mac",
+            "url": "mpp-custom-mini-mac#skincare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "massimodutti",
+    "LogoUrl": "/img/logolist/massimodutti.jpg",
+    "MainCategory": [
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "special prices",
+            "url": "kadin/ozel-fiyatlar-n1486"
+          },
+          {
+            "title": "coats",
+            "url": "kadin/ceket-n1450"
+          },
+          {
+            "title": "blazer",
+            "url": "kadin/blazer-ceket-n1428"
+          },
+          {
+            "title": "dress",
+            "url": "kadin/elbise-n1494"
+          },
+          {
+            "title": "sweater-cardigan",
+            "url": "kadin/kazak-n1464"
+          },
+          {
+            "title": "shirt-blouse",
+            "url": "kadin/gomlek-n1439"
+          },
+          {
+            "title": "t-shirts",
+            "url": "kadin/tisort-n1444"
+          },
+          {
+            "title": "ball",
+            "url": "kadin/ust-n1490"
+          },
+          {
+            "title": "skirt",
+            "url": "kadin/etek-n1457"
+          },
+          {
+            "title": "trousers",
+            "url": "kadin/pantolon-n1476"
+          },
+          {
+            "title": "jeans",
+            "url": "kadin/kot-pantolon-n1642"
+          },
+          {
+            "title": "skin",
+            "url": "kadin/deri-n1628"
+          },
+          {
+            "title": "suit",
+            "url": "kadin/takim-n1491"
+          },
+          {
+            "title": "shoe",
+            "url": "kadin/ayakkabi-n1499"
+          },
+          {
+            "title": "bag",
+            "url": "kadin/el-cantalari-n1597"
+          },
+          {
+            "title": "bikini and swimwear",
+            "url": "kadin/plaj-giyim-n1894"
+          },
+          {
+            "title": "bijouterie",
+            "url": "kadin/taki-n1431"
+          },
+          {
+            "title": "accessory",
+            "url": "kadin/aksesuar-n1427"
+          },
+          {
+            "title": "perfume and body care",
+            "url": "women/perfumes-n1987"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LogoName": "nike",
+    "LogoUrl": "/img/logolist/nike.svg",
+    "MainCategory": [
+      {
+        "categoryName": "shoes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all shoes",
+            "url": "w/kadin-ayakkabilar-5e1x6zy7ok"
+          },
+          {
+            "title": "lifestyle",
+            "url": "w/erkek-gunluk-giyim-ayakkabilar-13jrmznik1zy7ok"
+          },
+          {
+            "title": "jordan",
+            "url": "w/kadin-jordan-ayakkabilar-37eefz5e1x6zy7ok"
+          },
+          {
+            "title": "running",
+            "url": "w/kadin-kosu-ayakkabilar-37v7jz5e1x6zy7ok"
+          },
+          {
+            "title": "training and gym",
+            "url": "w/kadin-antrenman-ve-spor-salonu-ayakkabilar-58jtoz5e1x6zy7ok"
+          },
+          {
+            "title": "nike by you",
+            "url": "w/kadin-nike-by-you-ayakkabilar-5e1x6z6ealhzy7ok"
+          }
+        ]
+      },
+      {
+        "categoryName": "clothes",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all clothing",
+            "url": "w/kadin-giysiler-5e1x6z6ymx6"
+          },
+          {
+            "title": "tops and t-shirts",
+            "url": "w/kadin-tops-t-shirts-5e1x6z9om13"
+          },
+          {
+            "title": "hoodies and sweatshirts",
+            "url": "w/kadin-hoodies-pullovers-5e1x6z6rive"
+          },
+          {
+            "title": "leggings",
+            "url": "w/kadin-taytlar-29sh2z5e1x6"
+          },
+          {
+            "title": "shorts",
+            "url": "w/kadin-sortlar-38fphz5e1x6"
+          },
+          {
+            "title": "trousers",
+            "url": "w/kadin-pants-tights-2kq19z5e1x6"
+          },
+          {
+            "title": "matching sets",
+            "url": "w/kadin-matching-sets-2lukpz5e1x6"
+          },
+          {
+            "title": "jackets",
+            "url": "w/kadin-ceketler-ve-yelekler-50r7yz5e1x6"
+          },
+          {
+            "title": "sports bras",
+            "url": "w/kadin-spor-sutyenleri-40qgmz5e1x6"
+          },
+          {
+            "title": "skirts and dresses",
+            "url": "w/kadin-skirts-dresses-5e1x6z8y3qp"
+          }
+        ]
+      },
+      {
+        "categoryName": "shop by sport",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all sports",
+            "url": "w/kadin-performance-3k7dgz5e1x6"
+          },
+          {
+            "title": "running",
+            "url": "kosu"
+          },
+          {
+            "title": "training and gym",
+            "url": "antrenman"
+          },
+          {
+            "title": "tennis",
+            "url": "w/kadin-tenis-5e1x6zed1q"
+          },
+          {
+            "title": "football",
+            "url": "w/kadin-futbol-1gdj0z5e1x6"
+          },
+          {
+            "title": "yoga",
+            "url": "w/kadin-yoga-5e1x6zanrlj"
+          },
+          {
+            "title": "dance",
+            "url": "https://www.nike.com/bg/dance"
+          }
+        ]
+      },
+      {
+        "categoryName": "accessories and equipment",
+        "categoryUrl": "/img/logolist/adiddas-shoes.jpeg",
+        "branchname": [
+          {
+            "title": "all accessories and equipment",
+            "url": "w/kadin-accessories-equipment-5e1x6zawwpw"
+          },
+          {
+            "title": "bags & backpacks",
+            "url": "w/kadin-bags-backpacks-5e1x6z9xy71"
+          },
+          {
+            "title": "socks",
+            "url": "w/kadin-socks-5e1x6z7ny3q"
+          }
+        ]
+      }
+    ]
+  }
+]

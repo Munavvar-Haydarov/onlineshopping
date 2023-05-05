@@ -1,0 +1,1047 @@
+,
+  {
+    "MainBrand": "bershka",
+    "MainCategory": [
+      {
+        "categoryName": "CLOTHES",
+        "branchname": [
+          "T-shirts",
+          "Sweatshirts and hoodies",
+          "Knitwear",
+          "Suits",
+          "Jackets and coats",
+          "Jeans",
+          "Trousers",
+          "Cargo and Parachute",
+          "Tracksuit",
+          "Shorts",
+          "Swimwear"
+        ]
+      },
+      {
+        "categoryName": "BASICS",
+        "branchname": [
+          "T-SHIRTS",
+          "SWEATSHIRTS",
+          "JACKETS",
+          "JEANS",
+          "TROUSERS",
+          "KNITWEAR",
+          "SHOES"
+        ]
+      },
+      {
+        "categoryName": "SHOES",
+        "branchname": [
+          "Trainers",
+          "Sneakers",
+          "Ankle boots",
+          "Smart Shoes",
+          "Sandals",
+          "Special prices"
+        ]
+      },
+      {
+        "categoryName": "ACCESSORIES",
+        "branchname": [
+          "Bags and backpacks",
+          "Caps and hats",
+          "Belts",
+          "Jewellery",
+          "Socks",
+          "Underwear",
+          "Glasses",
+          "Eau de Toilette"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/bershka.svg"
+  },
+  {
+    "MainBrand": "nike",
+    "MainCategory": [
+      {
+        "categoryName": "All Shoes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": [
+          "Lifestyle",
+          "Jordan",
+          "Air Max",
+          "Air Force 1",
+          "Blazer",
+          "Basketball",
+          "Running",
+          "Soccer",
+          "Golf",
+          "SB",
+          "Training & Gym"
+        ]
+      },
+      {
+        "categoryName": "All Clothing",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["Jordan", "Big & Tall"]
+      },
+      {
+        "categoryName": "All Tops",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Tops & T-Shirts",
+          "Hoodies & Sweatshirts",
+          "Jackets & Vests"
+        ]
+      },
+      {
+        "categoryName": "Bottoms",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["Pants & Tights", "Shorts", "Underwear", "socks"]
+      },
+      {
+        "categoryName": "Shop By Sport",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "All Sport",
+          "Basketball",
+          "Golf",
+          "Soccer",
+          "football",
+          "Tennis",
+          "Basketball",
+          "Running",
+          "Training & Gym",
+          "Track & Field",
+          "Lacrosse",
+          "Yoga"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/nike.svg"
+  },
+  {
+    "MainBrand": "defacto",
+    "MainCategory": [
+      {
+        "categoryName": "sportswear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "sportswear tops",
+          "sportswear bottoms",
+          "sneakers & accessories"
+        ]
+      },
+      {
+        "categoryName": "clothing",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "jeans",
+          "t-shirts",
+          "swimwear",
+          "shirts",
+          "polo shirts",
+          "trousers",
+          "sweatshirts",
+          "pullover & cardigans",
+          "shorts",
+          "jackets",
+          "coats",
+          "sportswear"
+        ]
+      },
+
+      {
+        "categoryName": "homewear & underwear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "all products",
+          "homewear",
+          "multipacks",
+          "boxer",
+          "slips",
+          "underwear"
+        ]
+      },
+      {
+        "categoryName": "ACCESSORIES",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "all products",
+          "socks",
+          "bags",
+          "belts",
+          "wallets",
+          "scarfs & shawls",
+          "hats & caps",
+          "gloves"
+        ]
+      },
+      {
+        "categoryName": "SHOES",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["all products", "slippers", "boots"]
+      },
+      {
+        "categoryName": "shop by style",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["young", "business look", "casual", "plus size"]
+      }
+    ],
+    "logoUrl": "/img/logolist/de-facto.svg"
+  },
+  {
+    "MainBrand": "mango",
+    "MainCategory": [
+      {
+        "categoryName": "Clothes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Shirt",
+          "T-shirt",
+          "polo shirt",
+          "Trousers",
+          "jean",
+          "Bermuda",
+          "Blazer jacket",
+          "Jackets and vests",
+          "cardigan and swater",
+          "Sweatshirt",
+          "Skin",
+          "shirt jackets",
+          "Coat",
+          "Swimsuit",
+          "Pyjamas",
+          "Underwear"
+        ]
+      },
+      {
+        "categoryName": "Suit",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Suit",
+          "Blazer jacket",
+          "Trousers",
+          "Waistcoat",
+          "Shirt"
+        ]
+      },
+      {
+        "categoryName": "Accessories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Shoe",
+          "Backpacks and other bags",
+          "Sunglasses",
+          "Belts and suspenders",
+          "Ties and bow ties",
+          "Hats and caps",
+          "Purse",
+          "scarf and scarf",
+          "Suit Accessories",
+          "more accessories"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/mango.svg"
+  },
+  {
+    "MainBrand": "pull-bear",
+    "MainCategory": [
+      {
+        "categoryName": "Clothes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Jacket",
+          "T-shirts",
+          "Sweatshirtler",
+          "Pants",
+          "Shirts",
+          "Jean",
+          "Tracksuit",
+          "Vests",
+          "Cargo & Parachute",
+          "Inflatable Jacket",
+          "Knitwear",
+          "Thin Jacket",
+          "Shorts",
+          "Swimsuit",
+          ""
+        ]
+      },
+      {
+        "categoryName": "Swimsuit",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      },
+      {
+        "categoryName": "Jean",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Baggy",
+          "Slim",
+          "Carrot",
+          "Skinny",
+          "Super skinny",
+          "Standard",
+          "Straight",
+          "Wide-leg",
+          "Loose",
+          "Relaxed",
+          "Rips"
+        ]
+      },
+      {
+        "categoryName": "Shoe",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "sneakers",
+          "Sandals",
+          "Espadrilles",
+          "Casual shoes",
+          "Boots - boots",
+          "Skin",
+          "promotions",
+          "Special for online sale",
+          "Licensed"
+        ]
+      },
+      {
+        "categoryName": "Special For You",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Underwear",
+          "Jewellery",
+          "Wallets",
+          "Socks",
+          "Caps",
+          "Hats",
+          "Hats",
+          "Casio",
+          "Sunglasses",
+          "Belts",
+          "Belt bags & Bags",
+          "mobile accessories"
+        ]
+      },
+      {
+        "categoryName": "Accessories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Underwear",
+          "Jewellery",
+          "Wallets",
+          "Socks",
+          "Caps",
+          "Hats",
+          "Hats",
+          "Casio",
+          "Sunglasses",
+          "Belts",
+          "Belt bags & Bags",
+          "mobile accessories"
+        ]
+      },
+      {
+        "categoryName": "Bag & Backpack",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Backpacks",
+          "Travel bags",
+          "Shoulder bag",
+          "Belt bags",
+          "Crossbody bags"
+        ]
+      },
+      {
+        "categoryName": "Licensed",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["music", "anime", "antistro", "nepec", "naruto", "2pac"]
+      },
+      {
+        "categoryName": "STWD",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      },
+      {
+        "categoryName": "Basic Products",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Pants",
+          "Jean",
+          "swatshirts",
+          "Jackets",
+          "T-shirts",
+          "Bermuda-Shorts",
+          "Shoe"
+        ]
+      },
+      {
+        "categoryName": "Unisex",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["t-shirts", "swatshirts", "Bag | backpack", "Shoe"]
+      }
+    ],
+    "logoUrl": "/img/logolist/pull-bear.svg"
+  },
+  {
+    "MainBrand": "sephora",
+    "MainCategory": [
+      {
+        "categoryName": "makeup",
+
+        "branchname": [
+          "foundation",
+          "bb & cc cream",
+          "tinted moisturizer",
+          "concealer",
+          "face primer",
+          "face primer",
+          "setting spray & powder",
+          "highlighter",
+          "contour",
+          "color correct",
+          "face sets"
+        ]
+      },
+      {
+        "categoryName": "skincare",
+        "branchname": [
+          "moisturizers",
+          "night cream",
+          "face oils",
+          "mists & essences",
+          "decollete & neck creams",
+          "bb & creams"
+        ]
+      },
+      {
+        "categoryName": "hair",
+        "branchname": ["shampoo", "conditioner"]
+      },
+      {
+        "categoryName": "fragrance",
+        "branchname": [
+          "perfume",
+          "rollerballs & travel size",
+          "body mist & hair mist"
+        ]
+      },
+      {
+        "categoryName": "tools & brushes",
+        "branchname": [
+          "brush sets",
+          "face brushes",
+          "eye brushes",
+          "sponges & applicators",
+          "brush cleaners",
+          "facial cleansing brushes"
+        ]
+      },
+      {
+        "categoryName": "bath & body",
+        "branchname": [
+          "bady wash & shower gel",
+          "scrub & exfoliants",
+          "bath soaks & bubble bath"
+        ]
+      },
+      {
+        "categoryName": "mini size",
+        "branchname": [
+          "makeup",
+          "skincare",
+          "hair",
+          "fragrance",
+          "bath & body",
+          "value & gift sets",
+          "$25 and under"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/sephora.svg"
+  },
+  {
+    "MainBrand": "stradivarius",
+    "MainCategory": [
+      {
+        "categoryName": "CLOTHES",
+        "branchname": [
+          "coats",
+          "trench coat",
+          "set",
+          "dress",
+          "T-shirt",
+          "Shirt",
+          "ball and body",
+          "knitwear",
+          "trousers",
+          "jean",
+          "cargo and parachute",
+          "skirt",
+          "swatshirt",
+          "blazer",
+          "shorts",
+          "jumpsuit and salopet",
+          "faux leather",
+          "double teams",
+          "multipack",
+          "party",
+          "bikini and swimwear",
+          "unisex"
+        ]
+      },
+      {
+        "categoryName": "set",
+        "branchname": []
+      },
+      {
+        "categoryName": "basic products",
+        "branchname": []
+      },
+      {
+        "categoryName": "all denim",
+        "branchname": []
+      },
+      {
+        "categoryName": "cargo and parachute",
+        "branchname": []
+      },
+      {
+        "categoryName": "str teen",
+        "branchname": [
+          "cargo and parachute",
+          "blouse and t-shirt",
+          "trousers",
+          "jean",
+          "jacket and swatshirt",
+          "knitwear",
+          "dress",
+          "skirt",
+          "shoe",
+          "shorts"
+        ]
+      },
+      {
+        "categoryName": "sportswar",
+        "branchname": [
+          "leggings",
+          "shorts",
+          "ball",
+          "overalls",
+          "swatshirt and jacket",
+          "double teams",
+          "sneakers"
+        ]
+      },
+      {
+        "categoryName": "shoe",
+        "branchname": [
+          "sneakers",
+          "sandals",
+          "party",
+          "high heels",
+          "flat shoes",
+          "cowboy boots",
+          "boots-boots"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/stradivarius.svg"
+  },
+  {
+    "MainBrand": "zara",
+    "MainCategory": [
+      {
+        "categoryName": "CLOTHES",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Mini",
+          "Denim",
+          "Plain",
+          "Printed",
+          "Jumpsuits and ",
+          "Black dresses",
+          "Knitwear"
+        ]
+      },
+      {
+        "categoryName": "SHOE",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["woman", "man", "child"]
+      },
+      {
+        "categoryName": "BAG AND MAKEUP BAG",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      },
+      {
+        "categoryName": "HANGER AND ARRANGEMENT",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      },
+      {
+        "categoryName": "CLOTHING CARE",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      }
+    ],
+    "logoUrl": "/img/logolist/zara.svg"
+  },
+  {
+    "MainBrand": "mac",
+    "MainCategory": [
+      {
+        "categoryName": "lips",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "lipsticks",
+          "lip glosses",
+          "liguid lip colours",
+          "lip liners",
+          "lip palettes + kits",
+          "lip primers",
+          "mini MAC",
+          "lip colour finder",
+          "virtual try-on"
+        ]
+      },
+      {
+        "categoryName": "eyelash",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "mascara",
+          "eyeliner & eye liner",
+          "eyeshadow & eyeshadow palette",
+          "undereye concealer",
+          "eyebrow pencil",
+          "fake eyelashes",
+          "headlight base",
+          "all eye product"
+        ]
+      },
+      {
+        "categoryName": "face",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "foundation",
+          "under eye concrete",
+          "powder",
+          "blusher",
+          "bronzer",
+          "make-up base",
+          "enlightening",
+          "sim & pigment",
+          "face fallets"
+        ]
+      },
+      {
+        "categoryName": "brushes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      },
+      {
+        "categoryName": "skin",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": []
+      }
+    ],
+    "logoUrl": "/img/logolist/MAC.svg"
+  },
+  {
+    "MainBrand": "H&M",
+    "MainCategory": [
+      {
+        "categoryName": "trending products",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Cargo Pants",
+          "Custon-cut looks",
+          "must-haves | Sring",
+          "Linen Clothes"
+        ]
+      },
+      {
+        "categoryName": "Buy by product",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "basic",
+          "jean",
+          "Trousers",
+          "Sweatshirt and Hoodie Sweatshirt",
+          "T-Shirt and Tank",
+          "Sweaters & Cardigans",
+          "Knitwear & Knitting",
+          "Shirt",
+          "Suit & Blazer Jacket",
+          "Jackets and Coats",
+          "Shorts",
+          "beach clothes",
+          "Sportswear",
+          "Undersear",
+          "Pajamas & Home Wear",
+          "Sock",
+          "Shoe",
+          "Accessory",
+          "Premium Selection",
+          "Cosmetics"
+        ]
+      },
+      {
+        "categoryName": "spring catalog",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Everyday style looks",
+          "Stylish looks",
+          "street style looks"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/H&M.jpg"
+  },
+  {
+    "MainBrand": "LC WAIKIKI",
+    "MainCategory": [
+      {
+        "categoryName": "Clothes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "T-shirt",
+          "Polo Neck T-Shirt",
+          "Shirt",
+          "jean",
+          "Beach Wear",
+          "Trousers",
+          "Chino Pants",
+          "Active Sports",
+          "24/7 Basic",
+          "Sweatpants",
+          "Shorts",
+          "Athlete",
+          "Jumper",
+          "Coats and Coats",
+          "Raincoat",
+          "Cardigan and Sweater"
+        ]
+      },
+      {
+        "categoryName": "Underwear Pajamas Socks",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Pyjamas",
+          "Underwear",
+          "boxer",
+          "Sock",
+          "Multi-Packages"
+        ]
+      },
+      {
+        "categoryName": "Shoe",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Sneakers",
+          "Trekking Shoes",
+          "Classic Shoes",
+          "House Slippers and ",
+          "Slippers and Sandals",
+          "Sea Shoes"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/lc-waikiki.jpg"
+  },
+  {
+    "MainBrand": "massimodutti",
+    "MainCategory": [
+      {
+        "categoryName": "Clothes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Linen Collection",
+          "coats",
+          "Leather jacket",
+          "Slim Jacket",
+          "blazer",
+          "Jumper",
+          "Cardigan",
+          "Shirt",
+          "Polo",
+          "Sweatpants",
+          "T-shirt",
+          "Trousers",
+          "Chino Pants",
+          "jeans",
+          "test ab trajes",
+          "Classic Shirt",
+          "Shoe",
+          "Accessory",
+          "Beach Wear",
+          "pajamas and unerwear",
+          "Perfume and Body Care",
+          "Special Prices"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/massimodutti.jpg"
+  },
+  {
+    "MainBrand": "gratis",
+    "MainCategory": [
+      {
+        "categoryName": "Make-up",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "eyelash",
+          "lips",
+          "nail",
+          "face",
+          "makeup removal",
+          "makeup brushes"
+        ]
+      },
+      {
+        "categoryName": "skin care",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Facial Care",
+          "Skin Cleansers",
+          "Skin Moisturizing creams",
+          "face mask",
+          "hand & body care",
+          "eye care",
+          "foot care"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/gratis.jpg"
+  },
+  {
+    "MainBrand": "trendyol",
+    "MainCategory": [
+      {
+        "categoryName": "Clothes",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "T-shirt",
+          "Shorts",
+          "Shirt",
+          "Tracksuit",
+          "Trousers",
+          "Jacket",
+          "jeans",
+          "Waistcoat",
+          "Jumper",
+          "coats",
+          "Suit",
+          "Sweatshirt",
+          "Uniform"
+        ]
+      },
+      {
+        "categoryName": "Shoe",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Sneakers",
+          "Casual shoes",
+          "Walking shoe",
+          "Spikes",
+          "sneakers",
+          "Classical",
+          "boots"
+        ]
+      },
+      {
+        "categoryName": "Personal care",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "perfume",
+          "Sexual Health",
+          "After Shave Products",
+          "Razor blade"
+        ]
+      },
+      {
+        "categoryName": "Watches & Accessories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Hour",
+          "Sunglasses",
+          "Purse",
+          "Belt",
+          "Bag",
+          "Hat",
+          "Bracelet"
+        ]
+      },
+      {
+        "categoryName": "Underwear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["boxer", "Sock", "Pyjamas", "Athlete"]
+      },
+      {
+        "categoryName": "Sports & Outdoor",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "Tracksuit",
+          "sneakers",
+          "T-shirts",
+          "Sweatshirt",
+          "Uniform",
+          "sport socks",
+          "sportwear",
+          "outdoor shoes",
+          "outdoor boots",
+          "sports equipment",
+          "outdoor equipment",
+          "sport nutrition",
+          "sports accessories"
+        ]
+      }
+    ],
+    "logoUrl": "/img/logolist/trendyol.jpg"
+  },
+  {
+    "MainBrand": "penti",
+    "MainCategory": [
+      {
+        "categoryName": "home dressing",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "mens's pajamas set",
+          "men's pajama tops & sweatshirts",
+          "men's pajama bottoms & tracksuits",
+          "men's shorts",
+          "men's panduf & house slippers"
+        ]
+      },
+      {
+        "categoryName": "Beach",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["sea short", "Accessory"]
+      },
+      {
+        "categoryName": "sock",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["socks", "booties socks", "invisible socks"]
+      },
+      {
+        "categoryName": "undersear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      }
+    ],
+    "logoUrl": "/img/logolist/penti.jpg"
+  },
+  {
+    "MainBrand": "victoriassecret",
+    "MainCategory": [
+      {
+        "categoryName": "bra",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": [
+          "mens's pajamas set",
+          "men's pajama tops & sweatshirts",
+          "men's pajama bottoms & tracksuits",
+          "men's shorts",
+          "men's panduf & house slippers"
+        ]
+      },
+      {
+        "categoryName": "breifs",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+
+        "branchname": ["sea short", "Accessory"]
+      },
+      {
+        "categoryName": "Underwear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["socks", "booties socks", "invisible socks"]
+      },
+      {
+        "categoryName": "sleep clothing",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "sports and homewear",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "beauty",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "bag and accessories",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "discount",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "beach",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      },
+      {
+        "categoryName": "renewed vs",
+        "categoryUrl": "/img/logolist/adiddas-sports.png",
+        "branchname": ["boxer", "slip", "athlete", "T-shirt"]
+      }
+    ],
+    "logoUrl": "/img/logolist/victoriassecret.jpg"
+  }
